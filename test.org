@@ -1,5 +1,5 @@
 #+OPTIONS: num:nil reveal_title_slide:nil toc:nil
-#+REVEAL_TRANS: default
+#+REVEAL_TRANS: slide
 
 * Slide 1
 * Slide 2
