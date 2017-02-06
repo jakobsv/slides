@@ -2,6 +2,7 @@
 #+REVEAL_TRANS: linear
 
 * Slide 1
+#+REVEAL_HTML: <blockquote>Hej Hej</blockquote>
 *  
 :PROPERTIES:
 :reveal_background: images/vision-side001.jpeg
