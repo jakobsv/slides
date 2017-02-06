@@ -1,0 +1,9 @@
+#+OPTIONS: num:nil reveal_title_slide:nil
+#+REVEAL_TRANS: linear
+#+STARTUP: entitiespretty
+
+* ErhvervsPhD - hvad er det?
+* Dannelse - hvorfor?
+* Kampen om dannelse
+* Forskningssp\oslash{}rgsm\aring{}l
+* Forskningsdesign

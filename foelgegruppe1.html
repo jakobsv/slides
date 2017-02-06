@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title></title>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./css/reveal.css"/>
+
+<link rel="stylesheet" href="./css/theme/moon.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-orgcf3c264">ErhvervsPhD - hvad er det?</a></li>
+<li><a href="#/slide-org4da1254">Dannelse - hvorfor?</a></li>
+<li><a href="#/slide-org963fa3b">Kampen om dannelse</a></li>
+<li><a href="#/slide-org42c1c83">Forskningssp&oslash;rgsm&aring;l</a></li>
+<li><a href="#/slide-org0880a7b">Forskningsdesign</a></li>
+</ul>
+</div>
+</div>
+</section>
+
+<section>
+<section id="slide-orgcf3c264">
+<h2 id="orgcf3c264">ErhvervsPhD - hvad er det?</h2>
+</section>
+</section>
+<section>
+<section id="slide-org4da1254">
+<h2 id="org4da1254">Dannelse - hvorfor?</h2>
+</section>
+</section>
+<section>
+<section id="slide-org963fa3b">
+<h2 id="org963fa3b">Kampen om dannelse</h2>
+</section>
+</section>
+<section>
+<section id="slide-org42c1c83">
+<h2 id="org42c1c83">Forskningssp&oslash;rgsm&aring;l</h2>
+</section>
+</section>
+<section>
+<section id="slide-org0880a7b">
+<h2 id="org0880a7b">Forskningsdesign</h2>
+</section>
+</section>
+</div>
+</div>
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>
