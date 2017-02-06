@@ -1,5 +1,13 @@
 #+OPTIONS: num:nil reveal_title_slide:nil toc:nil
-#+REVEAL_TRANS: slide
+#+REVEAL_TRANS: linear
 
 * Slide 1
-* Slide 2
+*  
+:PROPERTIES:
+:reveal_background: images/vision-side001.jpeg
+:reveal_background_size: 1000px
+:END:
+
+#+BEGIN_NOTES
+Your note
+#+END_NOTES
