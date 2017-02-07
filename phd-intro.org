@@ -1,9 +1,32 @@
-#+OPTIONS: num:nil reveal_title_slide:nil
+#+TITLE: Intro til ErhvervsPhD-projekt
+#+AUTHOR: Jakob Villadsen
+#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
+#+LANGUAGE: da
+#+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
-#+STARTUP: entitiespretty
 
+* Min vej til ph.d.-projektet
+** @@comment: Praksis-sporet@@
+:PROPERTIES:
+:reveal_background: images/praksisspor.png
+:reveal_background_size: 1000px
+:END:
+** Det refleksive spor
 * ErhvervsPhD - hvad er det?
+** Hvad er et ph.d.-studium?
+** Hvad er en ErhvervsPhD?
+** Gode erfaringer fra offentlige ErhvervsPhD-projekter
 * Dannelse - hvorfor?
+** Byrådets vision
+** Det store billede
 * Kampen om dannelse
-* Forskningssp\oslash{}rgsm\aring{}l
+** Dannelse i et demokrati-perspektiv
+** Dannelse i et konkurrence-perspektiv
+** Et kompromis mellem de to positioner?
+* Forskningsspørgsmål
+** Overordnet spørgsmål
+Hvorvidt kan ungdomsskolen facilitere politisk dannelse blandt unge?
+** Underspørgsmål
+1. Hvordan udfoldes og praktiseres det politiske i de unges hverdagsliv?
+2. Hvilke strukturelle drivkrÃ¦fter og barrierer er der for politisk dannelse?
 * Forskningsdesign
