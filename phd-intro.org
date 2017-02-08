@@ -11,7 +11,11 @@
 :reveal_background: images/praksisspor.png
 :reveal_background_size: 1000px
 :END:
-** Det refleksive spor
+** @@comment: Det refleksive spor@@
+:PROPERTIES:
+:reveal_background: images/refleksivspor.png
+:reveal_background_size: 1000px
+:END:
 * ErhvervsPhD - hvad er det?
 ** Hvad er et ph.d.-studium?
 ** Hvad er en ErhvervsPhD?
