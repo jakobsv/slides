@@ -4,6 +4,7 @@
 #+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
+#+REVEAL_EXTRA_CSS: ./css/custom.css
 
 * Min vej til ph.d.-projektet
 ** @@comment: Praksis-sporet@@
@@ -25,7 +26,14 @@
 ** Det store billede
 * Kampen om dannelse
 ** Dannelse i et demokrati-perspektiv
+Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfællesskab i den konkurrencestat, der er på vej til at afløse velfærdsstaten.
+
+Ove Kaj Pedersen
 ** Dannelse i et konkurrence-perspektiv
+#+REVEAL_HTML: <blockquote class="citat">Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfællesskab i den konkurrencestat, der er på vej til at afløse velfærdsstaten.</blockquote>
+
+#+REVEAL_HTML: <p class="citat">Ove Kaj Pedersen</p>
+
 ** Et kompromis mellem de to positioner?
 * Forskningsspørgsmål
 ** Overordnet spørgsmål
