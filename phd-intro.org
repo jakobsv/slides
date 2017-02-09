@@ -23,7 +23,7 @@
 ** Gode erfaringer fra offentlige ErhvervsPhD-projekter
 * Dannelse - hvorfor?
 ** @@comment: Byrådets vision@@
-#+ATTR_HTML: :height 200%, :width 200%
+#+ATTR_HTML: :height 100%, :width 100%
 [[./images/vision-side001.jpeg]]
 
 ** Det store billede
