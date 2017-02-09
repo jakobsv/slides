@@ -28,3 +28,9 @@ body:after {
     left: -200px;
     transform: scale(.3);
 }
+
+.reveal section img.custom {
+  margin: 0px 0px;
+  border: 0;
+  box-shadow: none;
+}
