@@ -24,8 +24,7 @@
 body:after {
     content: url(../images/logo_holbaek-ruc.png);
     position: fixed;
-    bottom: 0em;
-    left: 0em;
+    bottom: 0px;
+    left: -200px;
     transform: scale(.3);
 }
-
