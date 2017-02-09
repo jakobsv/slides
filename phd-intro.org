@@ -23,10 +23,9 @@
 ** Gode erfaringer fra offentlige ErhvervsPhD-projekter
 * Dannelse - hvorfor?
 ** @@comment: Byrådets vision@@
-:PROPERTIES:
-:reveal_background: images/vision-side001.jpeg
-:reveal_background_size: 1000px
-:END:
+#+ATTR_HTML: :height 200%, :width 200%
+[[./images/vision-side001.jpeg]]
+
 ** Det store billede
 * Kampen om dannelse
 ** Dannelse i et konkurrence-perspektiv
