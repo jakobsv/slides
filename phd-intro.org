@@ -22,19 +22,27 @@
 ** Hvad er en ErhvervsPhD?
 ** Gode erfaringer fra offentlige ErhvervsPhD-projekter
 * Dannelse - hvorfor?
-** Byrådets vision
+** @@comment: Byrådets vision@@
+:PROPERTIES:
+:reveal_background: images/vision-side001.jpeg
+:reveal_background_size: 1000px
+:END:
 ** Det store billede
 * Kampen om dannelse
-** Dannelse i et demokrati-perspektiv
-Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfællesskab i den konkurrencestat, der er på vej til at afløse velfærdsstaten.
-
-Ove Kaj Pedersen
 ** Dannelse i et konkurrence-perspektiv
 #+REVEAL_HTML: <blockquote class="citat">Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfællesskab i den konkurrencestat, der er på vej til at afløse velfærdsstaten.</blockquote>
 
-#+REVEAL_HTML: <p class="citat">Ove Kaj Pedersen</p>
+#+REVEAL_HTML: <p class="citat">Ove Kaj Pedersen<br>Professor, Copenhagen Business School</p>
+** Dannelse i et demokrati-perspektiv
+#+REVEAL_HTML: <blockquote class="citat">(...) som jeg ser det lige nu, bliver de unge flasket op med tanken om, at de ikke skal andet end at arbejde. De skal for alt i verden lykkes med, hvad de kan, og ikke så meget med, hvem de er. Er der intet andet mål i livet end at være så produktiv som muligt?</blockquote>
 
-** Et kompromis mellem de to positioner?
+#+REVEAL_HTML: <p class="citat">Simon Axø<br>Forstander, Testrup Højskole</p>
+
+** Det tredje besværlige sted
+#+REVEAL_HTML: <blockquote class="citat">Min påstand er, at den afgørende strid i dansk uddannelse i disse år er en kamp om dannelsen, og at denne kamp udkæmpes mellem to positioner, der gør hinanden dummere frem for at kvalificere sig i striden.</blockquote>
+
+#+REVEAL_HTML: <p class="citat">Stefan Hermann<br>Rektor, Professionshøjskolen Metropol</p>
+
 * Forskningsspørgsmål
 ** Overordnet spørgsmål
 Hvorvidt kan ungdomsskolen facilitere politisk dannelse blandt unge?
