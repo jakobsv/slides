@@ -16,9 +16,13 @@
 [[./images/refleksivspor.png]]
 
 * ErhvervsPhD - hvad er det?
-** @@coment: Hvad er et ph.d.-studium?@@
+** @@comment: Ph.d. - at grave sig ned?@@
 :PROPERTIES:
 :reveal_background: images/stack-of-books.jpg
+:END:
+** @@comment: ...eller engagere sig i praksis?@@
+:PROPERTIES:
+:reveal_background: images/dus.jpg
 :END:
 ** Hvad er en ErhvervsPhD?
 ** Gode erfaringer fra offentlige ErhvervsPhD-projekter
@@ -26,8 +30,10 @@
 ** @@comment: Byrådets vision@@
 #+ATTR_HTML: :width 640px :class custom
 [[./images/vision-side001.jpeg]]
-
-** Det store billede
+** @@comment: Det store billede@@
+:PROPERTIES:
+:reveal_background: images/trump.jpg
+:END:
 * Kampen om dannelse
 ** Dannelse i et konkurrence-perspektiv
 #+REVEAL_HTML: <blockquote class="citat">Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfællesskab i den konkurrencestat, der er på vej til at afløse velfærdsstaten.</blockquote>
