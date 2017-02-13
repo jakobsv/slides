@@ -8,17 +8,18 @@
 
 * Min vej til ph.d.-projektet
 ** @@comment: Praksis-sporet@@
-:PROPERTIES:
-:reveal_background: images/praksisspor.png
-:reveal_background_size: 1000px
-:END:
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/praksisspor.png]]
+
 ** @@comment: Det refleksive spor@@
-:PROPERTIES:
-:reveal_background: images/refleksivspor.png
-:reveal_background_size: 1000px
-:END:
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/refleksivspor.png]]
+
 * ErhvervsPhD - hvad er det?
-** Hvad er et ph.d.-studium?
+** @@coment: Hvad er et ph.d.-studium?@@
+:PROPERTIES:
+:reveal_background: images/stack-of-books.jpg
+:END:
 ** Hvad er en ErhvervsPhD?
 ** Gode erfaringer fra offentlige ErhvervsPhD-projekter
 * Dannelse - hvorfor?
