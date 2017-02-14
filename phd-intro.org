@@ -24,8 +24,38 @@
 :PROPERTIES:
 :reveal_background: images/dus.jpg
 :END:
-** Hvad er en ErhvervsPhD?
-** Gode erfaringer fra offentlige ErhvervsPhD-projekter
+** @@comment:ErhvervsPhD@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/erhvervsphd.png]]
+
+#+BEGIN_NOTES
+- ErhvervsPhD-projekt sker i samarbejde mellem Holbæk Kommune og RUC - Institut for Mennesker og Teknologi - og støttes af Innovationsfonden.
+- Innovationsfonden er etableret af uddannelses- og forskningsministeren som et uafhængigt organ, der har til formål "at give tilskud til udvikling af viden og teknologi, herunder højteknologi, der fører til styrkelse af forskning og innovative løsninger til gavn for vækst og beskæftigelse i Danmark.".
+- Innovationsfonden administerer ErhvervsPhD-ordningen og har derudover 5 programmer.
+
+- ErhvervsPhD-initiativet blev etableret i 1970 under navnet Erhvervsforsker-ordningen, men dengang var det kun virsomheder, der kunne få støtte.
+- Den ph.d.-studerende er ansat i virksomheden og arbejder fuld tid på forskningsprojektet, men deler tiden ligeligt mellem virksomheden og universitet.
+- Formålet med ordningen var fra starten:
+  - at skabe forbindelser mellem det private erhvervsliv og universitetsverdenen,
+  - at skabe erhvervsrelevant forskning
+  - for derved at sikre vækst og udvikling for virksomhederne.
+
+- Fra 2010 blev ordningen udvidet til offentlige institutioner. Den offentlige ErhvervsPhD-ordning var en del af regeringens strategi fra 2008 for styrket innovation i den offentlige sektor.
+- Formålet med ErhvervsPhD i den offentlige sektor er
+  - at understøtte innovation og udvikling i den offentlige sektor gennem målrettede og anvendelsesorienterede forskningsprojekter
+  - at uddanne forskere med indsigt i forskning og udvikling inden for den offentlige sektor
+  - at opbygge netværk og understøtte videnudveksling mellem offentlige organisationer og forskningsinstitutioner
+
+- Et ErhvervsPhD-projekt skal inkludere:
+  - videnopbygning, der direkte øger organisationens kompetencer 
+  - systematisk videnspredning 
+  - en styrkelse af kvaliteten af organisationens arbejde
+
+#+END_NOTES
+
+** @@comment: Erfaringer fra offentlige ErhvervsPhD-projekter@@
+#+ATTR_HTML: :width 800px :class custom
+[[./images/erhvervsphd_effektkaede.png]]
 * Dannelse - hvorfor?
 ** @@comment: Byrådets vision@@
 #+ATTR_HTML: :width 640px :class custom
@@ -54,5 +84,7 @@
 Hvorvidt kan ungdomsskolen facilitere politisk dannelse blandt unge?
 ** Underspørgsmål
 1. Hvordan udfoldes og praktiseres det politiske i de unges hverdagsliv?
-2. Hvilke strukturelle drivkrÃ¦fter og barrierer er der for politisk dannelse?
-* Forskningsdesign
+2. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
+* Tidsplan
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/tidsplan.svg]]
