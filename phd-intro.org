@@ -20,16 +20,16 @@
 :PROPERTIES:
 :reveal_background: images/stack-of-books.jpg
 :END:
+
 ** @@comment: ...eller engagere sig i praksis?@@
-:PROPERTIES:
-:reveal_background: images/dus.jpg
-:END:
+#+ATTR_HTML: :width 640px :class custom
+[[./images/erhvervsphd-projekter.png]]
 ** @@comment:ErhvervsPhD@@
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/erhvervsphd.png]]
 
 #+BEGIN_NOTES
-- ErhvervsPhD-projekt sker i samarbejde mellem Holbæk Kommune og RUC - Institut for Mennesker og Teknologi - og støttes af Innovationsfonden.
+- ErhvervsPhD-projekt sker i samarbejde mellem Holbæk Kommune og RUC - Institut for Mennesker og Teknologi - og stÃ¸ttes af Innovationsfonden.
 - Innovationsfonden er etableret af uddannelses- og forskningsministeren som et uafhængigt organ, der har til formål "at give tilskud til udvikling af viden og teknologi, herunder højteknologi, der fører til styrkelse af forskning og innovative løsninger til gavn for vækst og beskæftigelse i Danmark.".
 - Innovationsfonden administerer ErhvervsPhD-ordningen og har derudover 5 programmer.
 
@@ -42,7 +42,7 @@
 
 - Fra 2010 blev ordningen udvidet til offentlige institutioner. Den offentlige ErhvervsPhD-ordning var en del af regeringens strategi fra 2008 for styrket innovation i den offentlige sektor.
 - Formålet med ErhvervsPhD i den offentlige sektor er
-  - at understøtte innovation og udvikling i den offentlige sektor gennem målrettede og anvendelsesorienterede forskningsprojekter
+  - at understøtte innovation og udvikling i den offentlige sektor gennem mÃ¥lrettede og anvendelsesorienterede forskningsprojekter
   - at uddanne forskere med indsigt i forskning og udvikling inden for den offentlige sektor
   - at opbygge netværk og understøtte videnudveksling mellem offentlige organisationer og forskningsinstitutioner
 
@@ -56,8 +56,33 @@
 ** @@comment: Erfaringer fra offentlige ErhvervsPhD-projekter@@
 #+ATTR_HTML: :width 800px :class custom
 [[./images/erhvervsphd_effektkaede.png]]
+
+#+BEGIN_NOTES
+Pointer fra Evaluering af Offentlige ErhvervsPhD-projekter:  
+http://innovationsfonden.dk/sites/default/files/analyse_offentlige-erhversphd-projekter_if-uddrag_april2016.pdf
+
+- "Projekterne skaber primært værdi for værterne gennem den daglige interaktion og sparring med PhD-stipendiaten" (s. 4)
+- "Interviewene viser, at stipendiaterne kan antage et ”helikopter-perspektiv” på organisationernes drift og strategier – som medarbejdere med driftsansvar hverken har tid til eller forudsætninger for" (s. 13)
+- "Projekterne adresserer med andre ord sjældent ”brændende platforme” for de offentlige værtsvirksomheder" (s. 7)
+- Dog er den 3-årige periode både en styrke og en svaghed. I løbet af tre år kan der ske mange ting i en kommunal organisation - skift i politisk og administrativ ledelse, skift i strategisk fokus. Dette kan gøre det svært at bearbejde og omsætte projektets resultater til værdi. 
+- "evalueringen viser, at det organisatoriske ”modtageapparat” ikke altid er på plads" (s. 5) 
+- Primære resultattyper (s. 11)
+  - Bedre kompetencer til at samarbejde med forskningsmiljøer
+  - Nye ydelser og koncepter
+  - Øget effektivitet og kvalitet i eksisterende ydelser og services
+  - Nye innovationsmetoder
+  - Nyt videngrundlag for strategisk innovation og politiske beslutninger
+- Forudsætning for projektets succes (s. 15)
+  - Projekterne skal være behovsdrevne 
+  - Gode forventningsafstemninger 
+  - Stærk organisatorisk forankring af projektet 
+  - Konkrete leverancer
+  - Udbredelse af resultater 
+
+#+END_NOTES
+
 * Dannelse - hvorfor?
-** @@comment: Byrådets vision@@
+** @@comment: ByrÃ¥dets vision@@
 #+ATTR_HTML: :width 640px :class custom
 [[./images/vision-side001.jpeg]]
 ** @@comment: Det store billede@@
@@ -66,25 +91,25 @@
 :END:
 * Kampen om dannelse
 ** Dannelse i et konkurrence-perspektiv
-#+REVEAL_HTML: <blockquote class="citat">Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfællesskab i den konkurrencestat, der er på vej til at afløse velfærdsstaten.</blockquote>
+#+REVEAL_HTML: <blockquote class="citat">Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfÃ¦llesskab i den konkurrencestat, der er pÃ¥ vej til at aflÃ¸se velfÃ¦rdsstaten.</blockquote>
 
 #+REVEAL_HTML: <p class="citat">Ove Kaj Pedersen<br>Professor, Copenhagen Business School</p>
 ** Dannelse i et demokrati-perspektiv
-#+REVEAL_HTML: <blockquote class="citat">(...) som jeg ser det lige nu, bliver de unge flasket op med tanken om, at de ikke skal andet end at arbejde. De skal for alt i verden lykkes med, hvad de kan, og ikke så meget med, hvem de er. Er der intet andet mål i livet end at være så produktiv som muligt?</blockquote>
+#+REVEAL_HTML: <blockquote class="citat">(...) som jeg ser det lige nu, bliver de unge flasket op med tanken om, at de ikke skal andet end at arbejde. De skal for alt i verden lykkes med, hvad de kan, og ikke sÃ¥ meget med, hvem de er. Er der intet andet mÃ¥l i livet end at vÃ¦re sÃ¥ produktiv som muligt?</blockquote>
 
-#+REVEAL_HTML: <p class="citat">Simon Axø<br>Forstander, Testrup Højskole</p>
+#+REVEAL_HTML: <p class="citat">Simon AxÃ¸<br>Forstander, Testrup HÃ¸jskole</p>
 
-** Det tredje besværlige sted
-#+REVEAL_HTML: <blockquote class="citat">Min påstand er, at den afgørende strid i dansk uddannelse i disse år er en kamp om dannelsen, og at denne kamp udkæmpes mellem to positioner, der gør hinanden dummere frem for at kvalificere sig i striden.</blockquote>
+** Det tredje besvÃ¦rlige sted
+#+REVEAL_HTML: <blockquote class="citat">Min pÃ¥stand er, at den afgÃ¸rende strid i dansk uddannelse i disse Ã¥r er en kamp om dannelsen, og at denne kamp udkÃ¦mpes mellem to positioner, der gÃ¸r hinanden dummere frem for at kvalificere sig i striden.</blockquote>
 
-#+REVEAL_HTML: <p class="citat">Stefan Hermann<br>Rektor, Professionshøjskolen Metropol</p>
+#+REVEAL_HTML: <p class="citat">Stefan Hermann<br>Rektor, ProfessionshÃ¸jskolen Metropol</p>
 
-* Forskningsspørgsmål
-** Overordnet spørgsmål
+* ForskningsspÃ¸rgsmÃ¥l
+** Overordnet spÃ¸rgsmÃ¥l
 Hvorvidt kan ungdomsskolen facilitere politisk dannelse blandt unge?
-** Underspørgsmål
+** UnderspÃ¸rgsmÃ¥l
 1. Hvordan udfoldes og praktiseres det politiske i de unges hverdagsliv?
-2. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
+2. Hvilke strukturelle drivkrÃ¦fter og barrierer er der for politisk dannelse?
 * Tidsplan
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/tidsplan.svg]]
