@@ -7,14 +7,45 @@
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
 * Min vej til ph.d.-projektet
+#+BEGIN_NOTES
+- Projektet bygger videre på ting jeg tidligere har lavet 
+- To spor der har ført til projektet:
+  - Et praksisspor: Frivilligt og professionelt arbejde vedr. unge og demokrati 
+  - Et refleksivt spor: Rød tråd igennem mit studie om unge og demokrati
+- Ph.d.-projektet er en mulighed for at forene de to spor - refleksiv handling
+#+END_NOTES
 ** @@comment: Praksis-sporet@@
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/praksisspor.png]]
+
+#+BEGIN_NOTES
+- Praksissporet
+  - Rudbjerg Ungdomsråd
+  - Netværket af Ungdomsråd
+  - Ycity
+  - Holbæk Ungdomsbyråd
+  - Linking Cultures
+- Fællesnævnere:
+  - at få flere unge med til at skabe forandringer
+  - fokus på lokale forandringer i en global kontekst
+  - politiske aktiviteter, men ikke politisk som i partipolitisk
+  - tværtimod har det handlet om at udvide det politiske - det politiske skal ikke være reduceret til politikere, partier og valghandlinger, men være en del af hverdagslivet
+- Lidt filosofisk: Det at være med til - i fællesskab med andre - at skabe samfundsforandringer på lokalt og globalt niveau ser jeg som noget grundlæggende for det at være menneske og praksisere frihed.
+
+#+END_NOTES
 
 ** @@comment: Det refleksive spor@@
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/refleksivspor.png]]
 
+#+BEGIN_NOTES
+- Det refleksive spor
+  - Plan, By & Proces / Socialvidenskab
+  - Publikationer fra frivilligt arbejde
+- Fokus på unges deltagelse i lokaldemokratiet
+- Bevægelse fra at kigge på det politiske koblet til politiske institutioner til lede efter det politiske uden for de politiske institutioner
+- Det førte i specialet til et kig på Roskilde Festival, og hvorvidt festivallivet er et kritisk, politisk modspil til hverdagslivet
+#+END_NOTES
 * ErhvervsPhD - hvad er det?
 ** @@comment: Ph.d. - at grave sig ned?@@
 :PROPERTIES:
@@ -82,13 +113,34 @@ http://innovationsfonden.dk/sites/default/files/analyse_offentlige-erhversphd-pr
 #+END_NOTES
 
 * Dannelse - hvorfor?
-** @@comment: ByrÃ¥dets vision@@
+#+BEGIN_NOTES
+- Generel betydning: "det at noget frembringes eller sammensættes til en helhed" 
+- I en pædagogisk tradion: "alment kendskab til især kulturelle områder som fx kunst, sprog, litteratur, musik og historie, forbundet med en fremskreden åndelig udvikling og en kultiveret optræden og levevis opnået som resultat af god uddannelse og opdragelse"
+- Denne defintion er dog noget gammeldags, kultur-konservativ - vi kan også 'bare' definere det som det at blive opdraget til at blive menneske
+- Hvis vi med Aristoteles forstår mennesket som et politisk menneske, så må dannelsen i min optik grundlæggende være politisk.
+- Dog er der med politisk dannelse en grundlæggende konflikt mellem at bevare de gamle generationers normer og de nye generationers muligheder for at udfordre og forny disse normer. Denne konflikt skal vi have med.
+#+END_NOTES
+** @@comment: Byrådets vision@@
 #+ATTR_HTML: :width 640px :class custom
 [[./images/vision-side001.jpeg]]
+#+BEGIN_NOTES
+- Holbæk i Fællesskab er en vision, hvor den kommunale velfærd er et fælles anliggende for civilsamfundet, erhvervslivet og den kommunale organisation - hvor vi alle har et ansvar. Ikke kun politikere og medarbejdere. Kommunen er et fællesskab, ikke kun en myndighed eller et serviceorgan.
+- Nogle kalder dette kommune 3.0 og ny velfærd. Jeg vil sige, at det er at søge tilbage til den oprindelige betydning af kommune - som fællesskab.
+- Det er interessant, at i grundloven er paragraffen om kommuner placeret i kapitlet med borgernes frihedsrettigheder, og i det første udkast til grundloven var det kommunale selvstyre formuleret som en politisk rettighed - borgerne er berettigede til selv at styre deres kommunale anliggender.
+- Opgaven med politisk dannelse er implicit formuleret i byrådets vision om at videreudvikle kommunen som et stærkt, demokratisk fællesskab, hvor flere borgere er med til at løse kommunens udfordringer. For forudsætningen for denne vision er politisk dannelse, da frøene til stærke, demokratiske fællesskaber primært må lægges blandt de fremtidige generationer af borgere.
+
+#+END_NOTES
 ** @@comment: Det store billede@@
 :PROPERTIES:
 :reveal_background: images/trump.jpg
 :END:
+#+BEGIN_NOTES
+- Ude i den store verden sker der ting, som har afgørende betydning for vores demokrati. Der er store bevægelser igang, som stiller spørgsmålstegn ved nogle af de essentielle træk ved det moderne, vestlige demokrati - fx pressefrihed, magtens tredeling og internationale institutioner.
+- Var valget af Trump et udtryk for manglende politisk dannelse? Måske. Men mere vigtigt er valget et udtryk for en anti-politisk position - en dyb skepsis over for de politiske institioner. En frakobling af borgerne fra det politiske.
+- Det afgørende mål for et politisk dannelsesprojekt er at genkoble borgerne med det politiske. At skabe en forståelse blandt de fremtidige generationer af borgere, at de kan være med til at forandre samfundet.
+
+#+END_NOTES
+
 * Kampen om dannelse
 ** Dannelse i et konkurrence-perspektiv
 #+REVEAL_HTML: <blockquote class="citat">Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfÃ¦llesskab i den konkurrencestat, der er pÃ¥ vej til at aflÃ¸se velfÃ¦rdsstaten.</blockquote>
@@ -99,17 +151,40 @@ http://innovationsfonden.dk/sites/default/files/analyse_offentlige-erhversphd-pr
 
 #+REVEAL_HTML: <p class="citat">Simon AxÃ¸<br>Forstander, Testrup HÃ¸jskole</p>
 
-** Det tredje besvÃ¦rlige sted
+#+BEGIN_NOTES
+»Man har fjernet dannelse fra uddannelse, og hvad har man tilbage? Ud! Ud på arbejdsmarkedet. Ud og tjen penge. Ud, ud, ud«.
+
+Knud Romer
+
+#+END_NOTES
+
+** Det tredje besværlige sted
 #+REVEAL_HTML: <blockquote class="citat">Min pÃ¥stand er, at den afgÃ¸rende strid i dansk uddannelse i disse Ã¥r er en kamp om dannelsen, og at denne kamp udkÃ¦mpes mellem to positioner, der gÃ¸r hinanden dummere frem for at kvalificere sig i striden.</blockquote>
 
 #+REVEAL_HTML: <p class="citat">Stefan Hermann<br>Rektor, ProfessionshÃ¸jskolen Metropol</p>
 
-* ForskningsspÃ¸rgsmÃ¥l
-** Overordnet spÃ¸rgsmÃ¥l
+* Forskningsspørgsmål
+** Overordnet spørgsmål
 Hvorvidt kan ungdomsskolen facilitere politisk dannelse blandt unge?
-** UnderspÃ¸rgsmÃ¥l
+
+#+BEGIN_NOTES
+- 'Facilitere' skal i det overordnede spørgsmål forstås som en aktivitet, hvor nogle gør noget svært muligt for andre – hvor noget åbnes op og hjælpes på vej.
+- Projektet vil undersøge, hvordan ungdomsskolens potentiale i relation til politisk dannelse kan udfoldes. Hvad kan ungdomsskolen gøre for at udbrede politisk dannelse?
+- Spørgsmålet er begrundet i et behov for både didaktiske og institutionelle anbefalinger, hvor det første behov handler om udviklingen og kvalificeringen af konkrete demokrati-læringsprocesser, og det andet behov handler om, hvordan kommunerne bredt set kan forbedre de demokratiske engagementsmuligheder for unge.
+- Projektet vil forsøge at skabe demokratiske forandringer ved at være med til at afprøve og udvikle demokratiske arenaer og processer.
+
+#+END_NOTES
+** Underspørgsmål
 1. Hvordan udfoldes og praktiseres det politiske i de unges hverdagsliv?
 2. Hvilke strukturelle drivkrÃ¦fter og barrierer er der for politisk dannelse?
+
+#+BEGIN_NOTES
+- For det første er der behov for svar på, hvor meget det politiske fylder i hverdagslivet for de unge. Hvor er det politiske, hvor er det ikke, og hvorfor forholder det sig sådan?
+- For det andet er der er et spørgsmål om hvilke strukturelle drivkræfter og barrierer, der er for politisk dannelse. Her handler det om at kortlægge mulighedsfeltet for politisk dannelse, da det ikke er nok med en god proces-værktøjskasse og praktiske anbefalinger – der er også strukturelle vilkår, som skal adresseres.
+- Metoder til 1: Kvantitativ og kvalitativ kortlægning af det politiske i de unges hverdagsliv - survey-undersøgelse + udvalgte unge, der interviewes med udgangspunkt i foto-dagbog
+- Metoder til 2: Dokument-analyse og historie-værksted. Hvad er policy-konteksten, og hvad har været på spil i de historiske og politiske konflikter om dannelsesprojekter. Hvordan udfolder forskellige demokrati-læringsprakssiser sig i policy-konteksten? Historieværkstedet skal finde de gode erfaringer og få svar på, hvad der virker, og hvad der ikke virker i forhold til politisk dannelse. 
+
+#+END_NOTES
 * Tidsplan
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/tidsplan.svg]]
