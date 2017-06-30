@@ -146,7 +146,7 @@ http://innovationsfonden.dk/sites/default/files/analyse_offentlige-erhversphd-pr
 ** Dannelse i et demokrati-perspektiv
 #+REVEAL_HTML: <blockquote class="citat">(...) som jeg ser det lige nu, bliver de unge flasket op med tanken om, at de ikke skal andet end at arbejde. De skal for alt i verden lykkes med, hvad de kan, og ikke så meget med, hvem de er. Er der intet andet mål i livet end at være så produktiv som muligt?</blockquote>
 
-#+REVEAL_HTML: <p class="citat">Simon Axø¸<br>Forstander, Testrup Højskole</p>
+#+REVEAL_HTML: <p class="citat">Simon Axø<br>Forstander, Testrup Højskole</p>
 
 #+BEGIN_NOTES
 »Man har fjernet dannelse fra uddannelse, og hvad har man tilbage? Ud! Ud på arbejdsmarkedet. Ud og tjen penge. Ud, ud, ud«.
@@ -156,13 +156,13 @@ Knud Romer
 #+END_NOTES
 
 ** Det tredje besværlige sted
-#+REVEAL_HTML: <blockquote class="citat">Min påstand er, at den afgørende strid i dansk uddannelse i disse år er en kamp om dannelsen, og at denne kamp udkæmpes mellem to positioner, der går hinanden dummere frem for at kvalificere sig i striden.</blockquote>
+#+REVEAL_HTML: <blockquote class="citat">Min påstand er, at den afgørende strid i dansk uddannelse i disse år er en kamp om dannelsen, og at denne kamp udkæmpes mellem to positioner, der gør hinanden dummere frem for at kvalificere sig i striden.</blockquote>
 
 #+REVEAL_HTML: <p class="citat">Stefan Hermann<br>Rektor, Professionshøjskolen Metropol</p>
 
 * Forskningsspørgsmål
 ** Overordnet spørgsmål
-Hvorvidt kan ungdomsskolen facilitere politisk dannelse blandt unge?
+Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere politisk dannelse blandt unge?
 
 #+BEGIN_NOTES
 - 'Facilitere' skal i det overordnede spørgsmål forstås som en aktivitet, hvor nogle gør noget svært muligt for andre – hvor noget åbnes op og hjælpes på vej.
