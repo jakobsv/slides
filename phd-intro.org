@@ -1,57 +1,25 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Villadsen
-#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
+#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1>"
 #+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
 * Følgegruppemøde 23. august 2017 
-** Min vej til ph.d.-projektet
-#+BEGIN_NOTES
-- Projektet bygger videre på ting jeg tidligere har lavet 
-- To spor der har ført til projektet:
-  - Et praksisspor: Frivilligt og professionelt arbejde vedr. unge og demokrati 
-  - Et refleksivt spor: Rød tråd igennem mit studie om unge og demokrati
-- Ph.d.-projektet er en mulighed for at forene de to spor - refleksiv handling
-#+END_NOTES
-*** @@comment: Praksis-sporet@@
-#+ATTR_HTML: :width 1000px :class custom
-[[./images/praksisspor.png]]
-
-#+BEGIN_NOTES
-- Praksissporet
-  - Rudbjerg Ungdomsråd
-  - Netværket af Ungdomsråd
-  - Ycity
-  - Holbæk Ungdomsbyråd
-  - Linking Cultures
-- Fællesnævnere:
-  - at få flere unge med til at skabe forandringer
-  - fokus på lokale forandringer i en global kontekst
-  - politiske aktiviteter, men ikke politisk som i partipolitisk
-  - tværtimod har det handlet om at udvide det politiske - det politiske skal ikke være reduceret til politikere, partier og valghandlinger, men være en del af hverdagslivet
-- Lidt filosofisk: Det at være med til - i fællesskab med andre - at skabe samfundsforandringer på lokalt og globalt niveau ser jeg som noget grundlæggende for det at være menneske og praksisere frihed.
-
-#+END_NOTES
-
-*** @@comment: Det refleksive spor@@
-#+ATTR_HTML: :width 1000px :class custom
-[[./images/refleksivspor.png]]
-
-#+BEGIN_NOTES
-- Det refleksive spor
-  - Plan, By & Proces / Socialvidenskab
-  - Publikationer fra frivilligt arbejde
-- Fokus på unges deltagelse i lokaldemokratiet
-- Bevægelse fra at kigge på det politiske koblet til politiske institutioner til lede efter det politiske uden for de politiske institutioner
-- Det førte i specialet til et kig på Roskilde Festival, og hvorvidt festivallivet er et kritisk, politisk modspil til hverdagslivet
-#+END_NOTES
 ** ErhvervsPhD - hvad er det?
 *** @@comment: Ph.d. - at grave sig ned?@@
 :PROPERTIES:
 :reveal_background: images/stack-of-books.jpg
 :END:
+#+BEGIN_NOTES
+- Handler et ph.d.-projekt om at begrave sig i bøger og først komme ud efter tre år?
+- Dette projekts tilgang:
+  - At undersøge praksis ved at være en del af praksis.
+  - At skabe forandringer + refleksion
+  - At bidrage løbende med viden og sparring
+  - Vekselvirkning ml. formidling og empiriindsamling
+#+END_NOTES
 
 *** @@comment:ErhvervsPhD@@
 #+ATTR_HTML: :width 1000px :class custom
@@ -118,9 +86,6 @@ http://innovationsfonden.dk/sites/default/files/analyse_offentlige-erhversphd-pr
 - Hvis vi med Aristoteles forstår mennesket som et politisk menneske, så må dannelsen i min optik grundlæggende være politisk.
 - Dog er der med politisk dannelse en grundlæggende konflikt mellem at bevare de gamle generationers normer og de nye generationers muligheder for at udfordre og forny disse normer. Denne konflikt skal vi have med.
 #+END_NOTES
-*** @@Dannelse er på dagsordenen@@
-#+ATTR_HTML: :width 640px :class custom
-[[./images/dannelse-paa-dagsordenen.png]]
 *** @@comment: Byrådets vision@@
 #+ATTR_HTML: :width 640px :class custom
 [[./images/vision-side001.jpeg]]
@@ -143,11 +108,24 @@ http://innovationsfonden.dk/sites/default/files/analyse_offentlige-erhversphd-pr
 #+END_NOTES
 
 ** Kampen om dannelse
-*** Dannelse i et konkurrence-perspektiv
+*** @@comment: Dannelse er på dagsordenen@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/dannelse-paa-dagsordenen.png]]
+
+#+BEGIN_NOTES
+- Dannelse er kommet på dagsordenen - dannelsesbegrebet bliver diskuteret.
+- Danske Kommuner fra februar 2017: Der er behov for en ny diskussion af begrebet dannelse - hvad er rollefordelingen?
+- Merete Risager: Der er sket et dannelsestab i uddannelsessystemet - for meget fokus på mål og kompetencer i stedet for viden og indsigt.
+- Folkemødet i år: Flere debatter om dannelse, her fra SFI's telt.
+- Stefan Hermann: Hvor står kampen om dannelse? To positioner har været dominerende:
+  - Den politisk-administrative (dannelse til arbejdsmarkedet og fremtidens rigdomskilder).
+  - Den pædagogisk-konservative (dannelse til livet og til demokratisk samvær)
+#+END_NOTES
+*** Den politisk-administrative position
 #+REVEAL_HTML: <blockquote class="citat">Den nye form for dannelse og disciplinering vokser frem, fordi evnen til at motivere sig selv og tage ansvar er nutidens bidrag til det store samfundsfællesskab i den konkurrencestat, der er på vej til at afløse velfærdsstaten.</blockquote>
 
 #+REVEAL_HTML: <p class="citat">Ove Kaj Pedersen<br>Professor, Copenhagen Business School</p>
-*** Dannelse i et demokrati-perspektiv
+*** Den pædagogisk-konservative position
 #+REVEAL_HTML: <blockquote class="citat">(...) som jeg ser det lige nu, bliver de unge flasket op med tanken om, at de ikke skal andet end at arbejde. De skal for alt i verden lykkes med, hvad de kan, og ikke så meget med, hvem de er. Er der intet andet mål i livet end at være så produktiv som muligt?</blockquote>
 
 #+REVEAL_HTML: <p class="citat">Simon Axø<br>Forstander, Testrup Højskole</p>
@@ -164,14 +142,26 @@ Knud Romer
 
 #+REVEAL_HTML: <p class="citat">Stefan Hermann<br>Rektor, Professionshøjskolen Metropol</p>
 
+#+BEGIN_NOTES
+- Begge positioner har svært ved at reflektere over begrænsningerne i egen tænkning og praksis
+- Nyopdage karakteropdragelsen og dydsetikken
+- Dannelsen må rette sig mod flere roller i det moderne samfund
+- Fag og kundskaber er nødvendige forudsætninger for demokratiet, men det er ikke tilstrækkelige forudsætninger.
+#+END_NOTES
+
 *** Hvilke dannelses-prakisser og -idealer er på spil i Holbæk Kommune?
+#+BEGIN_NOTES
+- Hvor meget slår konkurrencestaten igennem?
+- Er der en konflikt mellem konkurrencestatens dannelsesideal og et politisk-demokratisk dannelsesideal?
+#+END_NOTES
+
 ** Forskningsspørgsmål
 *** Overordnet spørgsmål
 Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere politisk dannelse blandt unge?
 
 #+BEGIN_NOTES
 - 'Facilitere' skal i det overordnede spørgsmål forstås som en aktivitet, hvor nogle gør noget svært muligt for andre – hvor noget åbnes op og hjælpes på vej.
-- Projektet vil undersøge, hvordan ungdomsskolens potentiale i relation til politisk dannelse kan udfoldes. Hvad kan ungdomsskolen gøre for at udbrede politisk dannelse?
+- Projektet vil undersøge, hvordan det ungdoms- og fritidspædagogiske felts potentiale i relation til politisk dannelse kan udfoldes. Hvad kan feltet gøre for at udbrede politisk dannelse?
 - Spørgsmålet er begrundet i et behov for både didaktiske og institutionelle anbefalinger, hvor det første behov handler om udviklingen og kvalificeringen af konkrete demokrati-læringsprocesser, og det andet behov handler om, hvordan kommunerne bredt set kan forbedre de demokratiske engagementsmuligheder for unge.
 - Projektet vil forsøge at skabe demokratiske forandringer ved at være med til at afprøve og udvikle demokratiske arenaer og processer.
 
@@ -183,13 +173,31 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 
 #+BEGIN_NOTES
 - For det første er der behov for svar på, hvor meget det politiske fylder i hverdagslivet for de unge. Hvor er det politiske, hvor er det ikke, og hvorfor forholder det sig sådan?
-- For det andet er der er et spørgsmål om hvilke strukturelle drivkræfter og barrierer, der er for politisk dannelse. Her handler det om at kortlægge mulighedsfeltet for politisk dannelse, da det ikke er nok med en god proces-værktøjskasse og praktiske anbefalinger – der er også strukturelle vilkår, som skal adresseres.
-- Metoder til 1: Kvantitativ og kvalitativ kortlægning af det politiske i de unges hverdagsliv - survey-undersøgelse + udvalgte unge, der interviewes med udgangspunkt i foto-dagbog
-- Metoder til 2: Dokument-analyse og historie-værksted. Hvad er policy-konteksten, og hvad har været på spil i de historiske og politiske konflikter om dannelsesprojekter. Hvordan udfolder forskellige demokrati-læringsprakssiser sig i policy-konteksten? Historieværkstedet skal finde de gode erfaringer og få svar på, hvad der virker, og hvad der ikke virker i forhold til politisk dannelse. 
+- For det andet er der er et spørgsmål om hvilke strukturelle drivkræfter og barrierer, der er for politisk dannelse.
+- For det trejde handler det om at komme med nogle konkrete bud på, hvordan politisk dannelse kan udfolde sig.
+- Metoder til 1: Kvalitativ kortlægning af det politiske i de unges hverdagsliv - udvalgte unge, der interviewes med udgangspunkt i foto-dagbog
+- Metoder til 2: Dokument-analyse og historie-værksted. Hvad er policy-konteksten, og hvad har været på spil i de historiske og politiske konflikter om dannelsesprojekter. Inddrage erfaringer fra andre kommuner.
+- Metoder til 3: Følge dannelsespraksisser i Holbæk Kommune og lave eksperimenter
 
 #+END_NOTES
 *** Hvad følger jeg i Holbæk Kommune?
+- Det Aktive Medborgerskab
+- Medborgerskab og Fritidsjob
+- Forebyggelsesplan mod radikalisering
+- Valgfremme-aktiviteterne
+- Ungdomsskolen, klubberne og SSP
+- Ungdomsbyrådet og andre deltagelsesareaner
+- Demokrati-events (Jagten, Demokratidag, mv.)
+- ?
 ** Følgegruppens rolle og forventninger til projektet
+#+BEGIN_NOTES
+- Komme med feedback til projektet
+- Hvordan spiller det sammen med aktuelle og langsigtede dagsordener i kommunen?
+- Er det praksisrelevant?
+- Høre den strategiske position
+- Linket til det kommunalpolitiske
+
+#+END_NOTES
 
 * Intro - ErhvervsPhD-projekt
 ** Min vej til ph.d.-projektet
@@ -369,3 +377,11 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 - Metoder til 2: Dokument-analyse og historie-værksted. Hvad er policy-konteksten, og hvad har været på spil i de historiske og politiske konflikter om dannelsesprojekter. Hvordan udfolder forskellige demokrati-læringsprakssiser sig i policy-konteksten? Historieværkstedet skal finde de gode erfaringer og få svar på, hvad der virker, og hvad der ikke virker i forhold til politisk dannelse. 
 
 #+END_NOTES
+* Diverse
+** Load
+M-x load-library -> ox-reveal
+
+C-u M-x org-reload
+** Options
+Tilføj subheader i titelslide:
+<h2>%a</h2>
