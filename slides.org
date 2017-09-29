@@ -1,11 +1,21 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
-#+AUTHOR: Jakob Villadsen
-#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1>"
+#+AUTHOR: Jakob Sejrup Villadsen
+#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
 #+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
+* At arbejde og forske i en politisk ledet organisation
+** @@comment: Hvem er jeg?@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/erhvervsphd.png]]
+** @@comment: At iagttage en kommunal organisation@@
+#+ATTR_HTML: :width 1058px :class custom
+[[./images/kommunekontekst.png]]
+** @@comment: Dilemmaer i en politisk ledet organisation@@
+#+ATTR_HTML: :width 1058px :class custom
+[[./images/dilemmaer.png]]
 * Følgegruppemøde 23. august 2017 
 ** ErhvervsPhD - hvad er det?
 *** @@comment: Ph.d. - at grave sig ned?@@
