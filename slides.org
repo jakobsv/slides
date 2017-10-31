@@ -1,11 +1,58 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
+#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
 #+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
+* Introduktion til kommunalvalget
+** Hvad laver kommunen?
+*** @@comment: De forskellige politiske niveauer@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/stat-region-kommune.jpeg]]
+** De opstillede partier i Holbæk Kommune
+*** @@comment: A@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/socialdemokratiet.jpeg]]
+*** @@comment: B@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/radikale.jpeg]]
+*** @@comment: C@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/konservative.jpeg]]
+#+ATTR_HTML: :width 1000px :class custom
+*** @@comment: E@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/retsforbundet.jpeg]]
+*** @@comment: F@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/sf.jpeg]]
+*** @@comment: I@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/la.jpeg]]
+*** @@comment: L@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/lokallisten.jpeg]]
+*** @@comment: O@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/df.jpeg]]
+*** @@comment: T@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/fritaenkerne.jpeg]]
+*** @@comment: V@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/venstre.jpeg]]
+*** @@comment: Y@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/nytholbaek.jpeg]]
+*** @@comment: Ø@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/enhedslisten.jpeg]]
+*** @@comment: Å@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/alternativet.jpeg]]
+** Hvordan stemmer man?
 * At arbejde og forske i en politisk ledet organisation
 ** @@comment: Hvem er jeg?@@
 #+ATTR_HTML: :width 1000px :class custom
