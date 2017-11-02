@@ -18,12 +18,18 @@
 - Opgaven med politisk dannelse er implicit formuleret i byrådets vision om at videreudvikle kommunen som et stærkt, demokratisk fællesskab, hvor flere borgere er med til at løse kommunens udfordringer. For forudsætningen for denne vision er politisk dannelse, da frøene til stærke, demokratiske fællesskaber primært må lægges blandt de fremtidige generationer af borgere.
 
 #+END_NOTES
-*** Politik og hverdagsliv
+*** @@comment: Politik og hverdagsliv@@
+:PROPERTIES:
+:reveal_background: images/hverdagsliv.jpeg
+:END:
 *** @@comment: ErhvervsPhD@@
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/erhvervsphd.png]]
 
 ** Skitse til analysestrategi
+*** @@comment: At iagttage en kommunal organisation@@
+#+ATTR_HTML: :width 1058px :class custom
+[[./images/kommunekontekst.png]]
 *** Forskningsspørgsmål
 Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere politisk dannelse blandt unge?
 
@@ -34,12 +40,14 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 - Projektet vil forsøge at skabe demokratiske forandringer ved at være med til at afprøve og udvikle demokratiske arenaer og processer.
 
 #+END_NOTES
-*** Analysedesign
+*** @@comment: Analysedesign@@
+#+ATTR_HTML: :width 1200px :class custom
+[[./images/analysedesign.png]]
+
+#+BEGIN_NOTES
 1. Hvordan udfoldes og praktiseres det politiske i de unges hverdagsliv?
 2. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
 3. Hvordan kan et politisk dannelsesprojekt udfolde sig i konkrete læringspraksisser?
-
-#+BEGIN_NOTES
 - For det første er der behov for svar på, hvor meget det politiske fylder i hverdagslivet for de unge. Hvor er det politiske, hvor er det ikke, og hvorfor forholder det sig sådan?
 - For det andet er der er et spørgsmål om hvilke strukturelle drivkræfter og barrierer, der er for politisk dannelse.
 - For det trejde handler det om at komme med nogle konkrete bud på, hvordan politisk dannelse kan udfolde sig.
@@ -50,7 +58,10 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 #+END_NOTES
 
 ** Samarbejdet med feltet 
-*** Det ungdoms- og fritidspædagogiske felt som brobygger
+*** @@comment: Det ungdoms- og fritidspædagogiske felt som brobygger@@
+#+ATTR_HTML: :width 1200px :class custom
+[[./images/brobygger.png]]
+
 #+BEGIN_NOTES
 - Hvad kendetegner det ungdoms- og fritidspædagogiske felt, og hvorfor er det interessant?
   - Mulighed for at bygge bro mellem 'kommunen' og de unges hverdagsliv, en brobygger ml. det almene og specialiserede
@@ -62,11 +73,15 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
   - Et praktisk felt, optaget af store events og praktikaliteter, refleksionen måske lidt glemt
 
 #+END_NOTES
-*** Muligheder for professionsudvikling
-- Kompetenceudvikling
-- Refleksion over praksis
-- Udvikling af praksis
+*** @@comment: Roller i feltet@@
+:PROPERTIES:
+:reveal_background: images/ungholbaek.jpeg
+:END:
 #+BEGIN_NOTES
+- Muligheder for professionsudvikling
+  - Kompetenceudvikling
+  - Refleksion over praksis
+  - Udvikling af praksis
 - Hvordan kan jeg som forsker understøtte en professionsudvikling? Hvad er der behov for?
   - Kompetenceudvikling: Facilitering, arbejde i en politisk organisation, projektledelse
   - Refleksion over praksis: Hvad vil vi med dannelsen og hvorfor? Hvad er vores overordnede greb på deltagelse og dannelse?
