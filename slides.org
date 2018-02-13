@@ -6,6 +6,80 @@
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
+* Politisk dannelse - præsentation til Videnskabsteori og Metodologi
+** Baggrunden for projektet
+*** @@comment: Byrådets vision@@
+#+ATTR_HTML: :width 640px :class custom
+[[./images/vision-side001.jpeg]]
+#+BEGIN_NOTES
+- Holbæk i Fællesskab er en vision, hvor den kommunale velfærd er et fælles anliggende for civilsamfundet, erhvervslivet og den kommunale organisation - hvor vi alle har et ansvar. Ikke kun politikere og medarbejdere. Kommunen er et fællesskab, ikke kun en myndighed eller et serviceorgan.
+- Nogle kalder dette kommune 3.0 og ny velfærd. Jeg vil sige, at det er at søge tilbage til den oprindelige betydning af kommune - som fællesskab.
+- Det er interessant, at i grundloven er paragraffen om kommuner placeret i kapitlet med borgernes frihedsrettigheder, og i det første udkast til grundloven var det kommunale selvstyre formuleret som en politisk rettighed - borgerne er berettigede til selv at styre deres kommunale anliggender.
+- Opgaven med politisk dannelse er implicit formuleret i byrådets vision om at videreudvikle kommunen som et stærkt, demokratisk fællesskab, hvor flere borgere er med til at løse kommunens udfordringer. For forudsætningen for denne vision er politisk dannelse, da frøene til stærke, demokratiske fællesskaber primært må lægges blandt de fremtidige generationer af borgere.
+
+#+END_NOTES
+*** @@comment: Politik og hverdagsliv@@
+:PROPERTIES:
+:reveal_background: images/hverdagsliv.jpeg
+:END:
+*** @@comment: Uligheden i politisk deltagelse@@
+:PROPERTIES:
+:reveal_background: images/bydele_foerste.png
+:END:
+*** @@comment: Det ungdoms- og fritidspædagogiske felt som brobygger@@
+#+ATTR_HTML: :width 1200px :class custom
+[[./images/brobygger.png]]
+
+#+BEGIN_NOTES
+- Hvad kendetegner det ungdoms- og fritidspædagogiske felt, og hvorfor er det interessant?
+  - Mulighed for at bygge bro mellem 'kommunen' og de unges hverdagsliv, en brobygger ml. det almene og specialiserede
+  - Repræsentant for et bredere dannelsesideal som supplement til konkurrencestatens dannelsesideal, har en demokratisk og politisk facilitator-rolle
+  - Samskabelse i praksis før samskabelsesdiskursen
+  - En åben ramme, præget af kan-opgaver
+  - Et broget felt, forskellige uddannelses- og arbejsmæssige baggrunde
+  - Et selvbevidst og autonomt felt
+  - Et praktisk felt, optaget af store events og praktikaliteter, refleksionen måske lidt glemt
+
+#+END_NOTES
+
+*** @@comment: ErhvervsPhD@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/erhvervsphd.png]]
+
+** Skitse til analysestrategi
+*** @@comment: At iagttage en kommunal organisation@@
+#+ATTR_HTML: :width 1058px :class custom
+[[./images/kommunekontekst.png]]
+*** Forskningsspørgsmål
+Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt bidrage til den politiske dannelse blandt unge?
+
+#+BEGIN_NOTES
+- 'Facilitere' skal i det overordnede spørgsmål forstås som en aktivitet, hvor nogle gør noget svært muligt for andre – hvor noget åbnes op og hjælpes på vej.
+- Projektet vil undersøge, hvordan det ungdoms- og fritidspædagogiske felts potentiale i relation til politisk dannelse kan udfoldes. Hvad kan feltet gøre for at udbrede politisk dannelse?
+- Spørgsmålet er begrundet i et behov for både didaktiske og institutionelle anbefalinger, hvor det første behov handler om udviklingen og kvalificeringen af konkrete demokrati-læringsprocesser, og det andet behov handler om, hvordan kommunerne bredt set kan forbedre de demokratiske engagementsmuligheder for unge.
+- Projektet vil forsøge at skabe demokratiske forandringer ved at være med til at afprøve og udvikle demokratiske arenaer og processer.
+
+#+END_NOTES
+*** Delanalyser
+- Rammer og vilkår for det ungdoms- og fritidspædagogiske felt
+- Dannelsen af de unge til medborgere (eksisterende dannelsespraksisser)
+- Praktiseringen af det politiske i de unges hverdagsliv
+- Politisk dannelse og nye læringsprocesser
+- Det strukturelle mulighedsrum for politisk dannelse
+
+#+BEGIN_NOTES
+1. Hvordan udfoldes og praktiseres det politiske i de unges hverdagsliv?
+2. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
+3. Hvordan kan et politisk dannelsesprojekt udfolde sig i konkrete læringspraksisser?
+- For det første er der behov for svar på, hvor meget det politiske fylder i hverdagslivet for de unge. Hvor er det politiske, hvor er det ikke, og hvorfor forholder det sig sådan?
+- For det andet er der er et spørgsmål om hvilke strukturelle drivkræfter og barrierer, der er for politisk dannelse.
+- For det trejde handler det om at komme med nogle konkrete bud på, hvordan politisk dannelse kan udfolde sig.
+- Metoder til 1: Kvalitativ kortlægning af det politiske i de unges hverdagsliv - udvalgte unge, der interviewes med udgangspunkt i foto-dagbog
+- Metoder til 2: Dokument-analyse og historie-værksted. Hvad er policy-konteksten, og hvad har været på spil i de historiske og politiske konflikter om dannelsesprojekter. Inddrage erfaringer fra andre kommuner.
+- Metoder til 3: Følge dannelsespraksisser i Holbæk Kommune og lave eksperimenter
+
+#+END_NOTES
+
 * Politisk dannelse og aktionsforskning
 ** Baggrunden for projektet
 *** @@comment: Byrådets vision@@
