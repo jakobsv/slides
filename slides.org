@@ -6,6 +6,29 @@
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
+* Følgegruppemøde 26-06-18
+** Genopfriskning af projektets formål og aktiviteter
+** Dannelsen af de unge som vælgere
+*** Hvor er vi henne ift. medborgerskabsidealer?
+*** Initiativerne for at få flere unge til at stemme
+*** Uligheden i valgdeltagelse
+*** Nogle stemmer bag stemmerne
+*** Opsamling
+- Umiddelbart er valgfremmeindsatsen en succes ift. de unge, da flere unge stemmer, men kampagnen kan også ses som en depolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse.
+- Dykker vi ned i tallene for de unge, kan vi desuden se en ulighed i valgdeltagelsen blandt de unge, hvilket nogle gange bliver overset, når vi taler om unges samfundsengagement.
+- Der kan også iagttages en usikker førstegangsvælger, som reproducerer generaliseringen om unges manglende samfundsengagement.
+- Vi skal derfor gå fra at danne vælgere til refleksive borgere.
+*** Hvad kan vi gøre mere langsigtet?
+** Processen for et nyt kommissorium
+** Trailer - det politiske i de unges livsverden
+*** Metoden
+*** Hvad kan undersøgelsen sige noget om?
+*** Hvem er med?
+*** Nedslag
+**** Et anderkendelsesværdigt formål?
+**** Det politiske i det sociale
+**** Hvordan politiseres unges mentale udfordringer?
+
 * Politisk dannelse - præsentation til Videnskabsteori og Metodologi
 ** Baggrunden for projektet
 *** @@comment: Byrådets vision@@
