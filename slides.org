@@ -1,34 +1,118 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
+#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1>"
 #+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
-* Følgegruppemøde 26-06-18
-** Genopfriskning af projektets formål og aktiviteter
+* Følgegruppemøde 26. juni 2018
+** Forskningsspørgsmål
+*** Overordnet spørgsmål
+Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt sammen initiere politiske dannelsesprocesser?
+*** Underspørgsmål
+1. Hvordan er det ungdoms- og fritidspædagogiske felt konstitueret?
+2. Hvilke politiske dannelsespraksisser foregår der i det ungdoms- og fritidspædagogiske felt?
+3. Hvordan praktiseres det politiske i de unges livsverden?
+4. Hvad kan unge og professionelle lære af at deltage i politiske dannelseseksperimenter?
+5. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
 ** Dannelsen af de unge som vælgere
-*** Hvor er vi henne ift. medborgerskabsidealer?
-*** Initiativerne for at få flere unge til at stemme
+*** @@comment: Intro@@
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+Det gik jo umiddelbart godt...
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+#+ATTR_HTML: :width 640 :class custom
+[[./images/aldersgrupper_09-17.png]]
+#+REVEAL_HTML: </div>
+
+*** @@comment: Valgfremmekampagnen@@
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+... men var valgfremme-kampagnnen udtryk for afpolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse?
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+#+ATTR_HTML: :width 640px :class custom
+[[./images/kl_kampagne.jpg]]
+#+REVEAL_HTML: </div>
+
 *** Uligheden i valgdeltagelse
+**** @@comment: Holbæk Kommune
+#+ATTR_HTML: :width 800px :class custom
+[[./images/omraader_foerste.png]]
+**** @@comment: Holbæk by@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/bydele_foerste.png]]
+**** @@comment: Køn@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/aldersgrupper_koen.png]]
 *** Nogle stemmer bag stemmerne
+**** Unges politiske deltagelse som et generaliseret fænomen
+#+REVEAL_HTML: <blockquote class="citat">Jeg hører tit i fjernsynet, at vi unge ikke interesserer os for politik. Det synes jeg personligt er en kæmpe misforståelse. Stort set alle af mine venner, også mig selv er engageret i politik og bruger lang tid af sin dag på at følge med i, hvad der sker i vores samfund og, hvad man er enig og uenig i.</blockquote>
+
+**** Hvordan håndteres afmagt?
+#+REVEAL_HTML: <blockquote class="citat">Hvis du virkelig ikke kan lide politik — hvis du virkelig synes at politikerne er en flok klovne, løgnere, eller at politik er kedeligt - så er det lige præcis derfor, at du skal stemme. Det her er din chance. Din chance for at ændre noget — din chance for at udnytte dit privilegium. Din chance for at udvise optimisme for fremtiden.</blockquote>
+
+**** Det utilgængelige valg
+#+REVEAL_HTML: <blockquote class="citat">[...] derfor vil jeg sætte mig ind i alt, hvad kommunalpolitik indebærer, hvilket parti og hvilke personer, der minder mest om mig i mine holdninger og prioriteter. Problemet, der bare hurtigt gik op for mig, at vejledende partiprogrammer og konkrete forslag er noget man skal lede længe efter, og at kommunalpolitik for en nybegynder som mig let kan være ret utilgængeligt.</blockquote>
+
+**** Mangel på kommunalpolitisk dannelse
+#+REVEAL_HTML: <blockquote class="citat">Det var først på gymnasiet, at jeg fik indblik i politik, som altså er noget af det væsentligste i det samfund, vi alle er en del af. Men efter kun en kort periodes samfundsfag i gymnasiet, føler jeg mig altså alligevel ikke afklaret med mit politiske ståsted. og er i stor tvivl om, hvordan jeg skal udnytte min langt om længe tildelte chance for demokratisk deltagelse den 21. november.</blockquote>
+
 *** Opsamling
-- Umiddelbart er valgfremmeindsatsen en succes ift. de unge, da flere unge stemmer, men kampagnen kan også ses som en depolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse.
+- Afpolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse som mulig eksklusion af visse positioner i det politiske rum
+- Ulighed i valgdeltagelse viser forskelle i vilkårene for politisk dannelse
+- Hvad er målet? En høj valgdeltagelse eller reflekterede borgerere?
+
+#+BEGIN_NOTES
+Umiddelbart er valgfremmeindsatsen en succes ift. de unge, da flere unge stemmer, men kampagnen kan også ses som en depolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse.
 - Dykker vi ned i tallene for de unge, kan vi desuden se en ulighed i valgdeltagelsen blandt de unge, hvilket nogle gange bliver overset, når vi taler om unges samfundsengagement.
 - Der kan også iagttages en usikker førstegangsvælger, som reproducerer generaliseringen om unges manglende samfundsengagement.
 - Vi skal derfor gå fra at danne vælgere til refleksive borgere.
-*** Hvad kan vi gøre mere langsigtet?
-** Processen for et nyt kommissorium
-** Trailer - det politiske i de unges livsverden
-*** Metoden
-*** Hvad kan undersøgelsen sige noget om?
-*** Hvem er med?
-*** Nedslag
-**** Et anderkendelsesværdigt formål?
-**** Det politiske i det sociale
-**** Hvordan politiseres unges mentale udfordringer?
+#+END_NOTES
 
+*** Hvad kan vi gøre mere langsigtet?
+** Kommende aktiviteter
+- Nordisk Sociologikongres
+- Opsamlingsheat for interviews + analyse
+- Nyt kommissorium for ungdomsbyrådet + ungdomshus
+- Brugerundersøgelse i UngHolbæk, virkekæde, mv.
+- Opstart af tværkommunalt netværk
+- Indsats i udsatte boligområder ift. politisk dannelse?
+** Trailer - det politiske i de unges livsverden
+*** @@comment: collage@@
+:PROPERTIES:
+:reveal_background: images/hverdag_collage.jpg
+:END:
+*** 3 nedslag
+**** @@comment: Nedslag 1@@
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+Et anderkendelses-værdigt formål?
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+#+ATTR_HTML: :width 400 :class custom
+[[./images/furry.jpg]]
+#+REVEAL_HTML: </div>
+**** @@comment: Nedslag 2@@
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+Det politiske i det sociale
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+#+ATTR_HTML: :width 400 :class custom
+[[./images/bar.jpg]]
+#+REVEAL_HTML: </div>
+**** @@comment: Nedslag 3@@
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+Hvordan politiseres unges mentale problemer?
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+#+ATTR_HTML: :width 400 :class custom
+[[./images/digt.jpg]]
+#+REVEAL_HTML: </div>
 * Politisk dannelse - præsentation til Videnskabsteori og Metodologi
 ** Baggrunden for projektet
 *** @@comment: Byrådets vision@@
