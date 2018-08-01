@@ -1,11 +1,80 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1>"
+#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
 #+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
+* How to explore participatory practices in the everyday life of young people?
+** Introduction to my PhD project
+** Pitfalls in the study of young people's participatory practices
+*** A generalized social phenomenon?
+#+BEGIN_NOTES
+Johannes Andersen (2011): "68’ernes aktivisme var rodfæstet i et opgør med et traditionelt og stift samfund, præget af privilegier, traditioner og forventninger. Oprøret var således en del af udviklingen af en ny politisk og social identitet, der skulle give den enkelte større frirum.  Og åbne for et mere dynamisk arbejdsmarked, men det er en anden sag.
+
+Det er ikke tilfældet for de unge i dag. De vil først og fremmest gøre en forskel. De er handlingsorienterede, og vil gerne kunne handle, her og nu, hvis der er noget der skal og kan gøres."
+
+---
+Unge i dagens Danmark er uengagerede og dovne. De gider ikke bruge krudt på politik og tager ikke ansvar for samfundsudviklingen. Det er påstande, vi med jævne mellemrum støder på i den offentlige debat. Selv om unges valgdeltagelse – især til lokalvalgene – rigtigt nok halter efter den øvrige befolknings, kan vi i Netværket af Ungdomsråd, Tænketanken Mandag Morgen og Tuborgfondet ikke genkende fortællingen om de “uengagerede unge”. Tværtimod oplever vi en generation af unge, der er ambitiøse og engagerede – og i fuld gang med at involvere sig i samfundet.
+
+---
+Even though it's correct that young people have a lower turnout in elections - especially for local elections - than the rest of the populeation, we can in the Network of Youth Councils, the think tank Monday Morning and the Tuborg Foundation not recognize the story of the "inddifferent youth".
+
+#+END_NOTES
+
+#+REVEAL_HTML: <blockquote class="citat">Young people in Denmark today are indifferent and lazy. They do not bother with politics and do not take responsibility for the development of society. This is assertations that we regularly encounter in the public debate. [...] On the contrary, we are experiencing a generation of young people who are ambitious and committed - and fully involved in society.</blockquote>
+
+#+REVEAL_HTML: <p class="citat">Tuborg Fondet, Mandag Morgen og Netværket af Ungdomsråd (2018). Hvem sagde ung og uengageret?</p>
+
+*** A dichotomous phenomenon?
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/linaa-jensen.jpg]]
+#+BEGIN_NOTES
+Jakob Linaa Jensen: Variabler for politisk deltagelse: Diskuterer politik, medlem af politisk parti, ser tv-programmer om politik og samfund, læser aviser om politik og samfund, følger politik online (web, sociale medier), disktuerer politik online (web, sociale medier), andre. Derudover har en værdi for "Engagerer sig ikke".
+#+END_NOTES
+
+*** A phenomenon observed with 'old' categories?
+#+BEGIN_NOTES
+- signing a petition
+- joining in boycotts
+- attending lawful demonstrations
+- joining unofficial strikes
+- occupying buildings or factories
+- damaging things, breaking windows, street violence (1981)
+- personal violence (1981)
+
+Billeder:
+- commons.wikimedia.org/wiki/File:Petition_for_Justice_(5170695465).jpg
+- commons.wikimedia.org/wiki/File:Boycott_KFC.jpg
+- commons.wikimedia.org/wiki/File:Occupy_Central_with_tents.jpg
+- pixabay.com/en/general-strike-factory-closed-shut-29653/
+- commons.wikimedia.org/wiki/File:NLN_Occupy_Wall_Street.jpg
+
+#+END_NOTES
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/evs_action.jpg]]
+** How to adress the pitfalls?
+*** @@comment: Messy data@@
+:PROPERTIES:
+:reveal_background: images/hverdag_collage2.jpg
+:END:
+*** The photo-elicted interview
+#+BEGIN_NOTES
+Benefits:
+- The interview is structured by the photos from the youth - the youth decide what to talk about and how they want to present their every day life. On that way the interview try to take the perspective from the youth.
+- It is a explorative method - it can explore themes and phenomenons that the researcher don't know on beforehand.
+- It helps connecting concrete moments in everyday life practices with the resarch and theories of youth participation. The pictures show concrete moments - time, space and sociality - and the interview and the analysis can bridge those moment to academia.
+
+Challenges:
+- The hay stack, to find the political
+- Bias of specific groups
+- Interview technique
+#+END_NOTES
+** How to conceptualize young people's participatory practices?
+*** A new typology?
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/typologi_deltagelse.jpg]]
 * Følgegruppemøde 26. juni 2018
 ** Forskningsspørgsmål
 *** Overordnet spørgsmål
