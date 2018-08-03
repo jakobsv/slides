@@ -1,14 +1,114 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
-#+LANGUAGE: da
+#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1>"
+#+LANGUAGE: en
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
 * How to explore participatory practices in the everyday life of young people?
-** Introduction to my PhD project
 ** Pitfalls in the study of young people's participatory practices
+*** A generalized social phenomenon?
+#+BEGIN_NOTES
+- The first pitfall is to see young peoples's participatory practices as one generalized social phenomenon instead of seeing it as a class specific and contextualised phenomenon.
+- This quote from a report on youth participation demonstrates the pitfall. The actors by the report are a fund, a think tank and a NGO, and they say... 
+- The quote is an example of a statement that has been repated in the discussion on youth participation for many years now. We get introduced to a generalization of the youth as lazy - and then next we get introuced to a counter-generalization - the 'engaged youth'.
+- So in the one generalization the youth reject the political institutions. In the other generalization the youth find new ways of political participation.
+- The problem with the reproduction of these generalizations - both 'the lazy youth' and 'the engaged youth' -  is that they ignore the class specific aspect of young people's participatory practices. They ignore the political inequality among youth. We can of course not say that a whole generation is "fully involved in society".
+- The actors behind the quote could be excused by the fact that they are not from academia. But on the other hand they are knowledge producers that play a role in how government, municipalities and NGO's frame youth participatory practices.
+- And they get inspired by the social sciences. For example in the quantiative litterature the youth get compared with other generations, and youth from different countries get compared with each other. This research is a part of the reproduction of the conceptualization of young people's participatory practices as one generalized social phenomenon.
+
+#+END_NOTES
+
+#+REVEAL_HTML: <blockquote class="citat">
+Young people in Denmark today are indifferent and lazy. They do not bother with politics and do not take responsibility for the development of society. This is assertations that we regularly encounter in the public debate. [...] On the contrary, we are experiencing a generation of young people who are ambitious and committed - and fully involved in society.
+#+REVEAL_HTML: </blockquote>
+
+#+REVEAL_HTML: <p class="citat">Tuborg Fondet, Mandag Morgen og Netværket af Ungdomsråd (2018). <em>Hvem sagde ung og uengageret?</em></p>
+
+*** A dichotomous phenomenon?
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/linaa-jensen.jpg]]
+#+BEGIN_NOTES
+- The second pitfall is to see young peoples's participatory practices as a dichotomous phenomenon where the youth are either engaged or disengaged instead of seeing it as a complex and dynamic phenomenon where engagement and disengagement exist side by side.
+- This is an example from a survey about the the regional elections last year in Denmark where one of the questions was about political participation in general. Each of the variables are dichotomous, e.g. are you a member of a political party or not? It's also intersting that there is a variable with "don't engage". So as a respondent you have the possibility to say yes to one or more of the variables above, and if you say no, then you "don't engage". Of course you can answer "other", but that possibility don't capture the latent-political, and it's difficult to think outside the box defined by the other possible answers - they limit the political imagination.
+- Sometimes it's difficult to say whether a specific practice is political or not. There can be practices that on the surface are apolitical, but below the surface something political is going on or is under construction. There can be young people who see themself as not interested in politic but actually are doing something politcal. It depend of course also on how you conceptualize the political. I will get back to that later.
+#+END_NOTES
+
+*** A phenomenon observed with 'old' categories?
+#+BEGIN_NOTES
+- The second pitfall is to see young peoples's participatory practices as a phenomenon observed with 'old' categories instead of exploring it from the youth's point of view today.
+- This is the variables regarding political action in EVS. It's interesting to see the historical development of political action but the challenge here is that the political action is defined 37 years ago, and maybe something has happen since then. E.g. occupying building is more a participatory practice of the 70's than of today.
+- Of course the purpose of EVS is to see the historical development of values and not to give a complete picture of today's values and actions. But the example show that it can be difficult to look with old eyes on new practices, because the political get reformulated for in each generation. And maybe the old eyes are not trained to see something new.
+- We need to - as a comparasion to surveys - more explorative approaches with the use of young eyes where the political is not defined on beforehand. 
+#+END_NOTES
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/evs_action.jpg]]
+** How to adress the pitfalls?
+*** @@comment: The photo-elicted interview@@
+:PROPERTIES:
+:reveal_background: images/phone_dark.jpg
+:END:
+#+BEGIN_NOTES
+Benefits:
+- The interview is structured by the photos from the youth - the youth decide what to talk about and how they want to present their every day life. On that way the interview try to take the perspective from the youth.
+- It is a explorative method - it can explore themes and phenomenons that the researcher don't know on beforehand.
+- It helps connecting concrete moments in everyday life practices with the resarch and theories of youth participation. The pictures show concrete moments - time, space and sociality - and the interview and the analysis can bridge those moment to academia.
+
+Challenges:
+- The hay stack, to find the political
+- Bias of specific groups
+- Interview technique
+#+END_NOTES
+
+#+REVEAL_HTML: <h3 style="color:white">The photo-elicted interview</h3>
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:50%; color:white">
+
+#+ATTR_REVEAL: :frag (appear)
+Benefits:
+
+#+ATTR_REVEAL: :frag (appear)
+- A perspective from the youth
+- An explorative method
+- A connection of concrete moments in everyday life practices with theories of youth participation
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:50%; color:white">
+
+#+ATTR_REVEAL: :frag (appear)
+Challenges:
+
+#+ATTR_REVEAL: :frag (appear)
+- The needle in a hay stack
+- Bias of specific groups
+- Interview technique
+
+#+REVEAL_HTML: </div>
+
+*** @@comment: Messy data@@
+:PROPERTIES:
+:reveal_background: images/hverdag_collage2.jpg
+:END:
+
+*** How to conceptualize young people's participatory practices?
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/typologi_deltagelse.jpg]]
+* Klippet
+** Can we talk with the 'non-political' youth about the political?
+#+BEGIN_NOTES
+Fælles for alle er, at de har været interesseret i at give deres mening til kende om politisk deltagelse - det er første skridt mod aktiv deltagelse. De helt uinteresserede kan man vanskeligt interviewe, da det er meget svært at snakke ret længe om noget, man ikke gør eller interesserer sig for.
+
+#+END_NOTES
+
+#+REVEAL_HTML: <blockquote class="citat">
+Common to all is that they have been interested in giving their opinion to political participation - it is the first step towards active participation. The uninterested people can be difficult to interview, as it is very difficult to talk for a long time about something that you don't do or don't care about.
+#+REVEAL_HTML: </blockquote>
+
+#+REVEAL_HTML: <p class="citat">Hansen, Niels-Henrik Møller and Sørensen, Niels Ulrik (2014). <em>Unges motivation for politisk deltagelse. Syv former for politisk engagement.</em> Center for Ungdomsforskning </p>
+
+** Noter
 *** A generalized social phenomenon?
 #+BEGIN_NOTES
 Johannes Andersen (2011): "68’ernes aktivisme var rodfæstet i et opgør med et traditionelt og stift samfund, præget af privilegier, traditioner og forventninger. Oprøret var således en del af udviklingen af en ny politisk og social identitet, der skulle give den enkelte større frirum.  Og åbne for et mere dynamisk arbejdsmarked, men det er en anden sag.
@@ -21,17 +121,6 @@ Unge i dagens Danmark er uengagerede og dovne. De gider ikke bruge krudt på pol
 ---
 Even though it's correct that young people have a lower turnout in elections - especially for local elections - than the rest of the populeation, we can in the Network of Youth Councils, the think tank Monday Morning and the Tuborg Foundation not recognize the story of the "inddifferent youth".
 
-#+END_NOTES
-
-#+REVEAL_HTML: <blockquote class="citat">Young people in Denmark today are indifferent and lazy. They do not bother with politics and do not take responsibility for the development of society. This is assertations that we regularly encounter in the public debate. [...] On the contrary, we are experiencing a generation of young people who are ambitious and committed - and fully involved in society.</blockquote>
-
-#+REVEAL_HTML: <p class="citat">Tuborg Fondet, Mandag Morgen og Netværket af Ungdomsråd (2018). Hvem sagde ung og uengageret?</p>
-
-*** A dichotomous phenomenon?
-#+ATTR_HTML: :width 1000px :class custom
-[[./images/linaa-jensen.jpg]]
-#+BEGIN_NOTES
-Jakob Linaa Jensen: Variabler for politisk deltagelse: Diskuterer politik, medlem af politisk parti, ser tv-programmer om politik og samfund, læser aviser om politik og samfund, følger politik online (web, sociale medier), disktuerer politik online (web, sociale medier), andre. Derudover har en værdi for "Engagerer sig ikke".
 #+END_NOTES
 
 *** A phenomenon observed with 'old' categories?
@@ -52,29 +141,7 @@ Billeder:
 - commons.wikimedia.org/wiki/File:NLN_Occupy_Wall_Street.jpg
 
 #+END_NOTES
-#+ATTR_HTML: :width 1000px :class custom
-[[./images/evs_action.jpg]]
-** How to adress the pitfalls?
-*** @@comment: Messy data@@
-:PROPERTIES:
-:reveal_background: images/hverdag_collage2.jpg
-:END:
-*** The photo-elicted interview
-#+BEGIN_NOTES
-Benefits:
-- The interview is structured by the photos from the youth - the youth decide what to talk about and how they want to present their every day life. On that way the interview try to take the perspective from the youth.
-- It is a explorative method - it can explore themes and phenomenons that the researcher don't know on beforehand.
-- It helps connecting concrete moments in everyday life practices with the resarch and theories of youth participation. The pictures show concrete moments - time, space and sociality - and the interview and the analysis can bridge those moment to academia.
 
-Challenges:
-- The hay stack, to find the political
-- Bias of specific groups
-- Interview technique
-#+END_NOTES
-** How to conceptualize young people's participatory practices?
-*** A new typology?
-#+ATTR_HTML: :width 1000px :class custom
-[[./images/typologi_deltagelse.jpg]]
 * Følgegruppemøde 26. juni 2018
 ** Forskningsspørgsmål
 *** Overordnet spørgsmål
@@ -768,6 +835,16 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 
 #+END_NOTES
 * Diverse
+** Print notes
+Tilføj følgende til URL:
+?print-pdf
+
+?print-pdf&showNotes=true
+
+?print-pdf&showNotes=separate-page
+
+https://github.com/hakimel/reveal.js#pdf-export
+
 ** Load
 M-x load-library -> ox-reveal
 

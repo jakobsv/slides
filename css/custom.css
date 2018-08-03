@@ -1,7 +1,7 @@
 .reveal blockquote.citat {
   display: block;
   position: relative;
-  width: 80%;
+  width: 100%;
   margin: 20px auto;
   padding: 5px;
   font-style: italic;
@@ -13,7 +13,7 @@
 .reveal p.citat {
     display: block;
     position: relative;
-    width: 80%;
+    width: 100%; 
     margin: 20px auto;
     padding: 5px;
     font-weight: bold;
@@ -34,4 +34,5 @@ body:after {
   border: 0;
   box-shadow: none;
 }
- 
+
+
