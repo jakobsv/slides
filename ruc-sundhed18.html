@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>At arbejde og forske i en politisk ledet organisation</title>
+<meta name="author" content="(Jakob Sejrup Villadsen)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./css/reveal.css"/>
+
+<link rel="stylesheet" href="./css/theme/white.css" id="theme"/>
+
+<link rel="stylesheet" href="./css/custom.css"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1>At arbejde og forske i en politisk ledet organisation</h1>
+</section>
+<section>
+<section id="slide-org5a9f899">
+<h2 id="org5a9f899"></h2>
+
+<div class="figure">
+<p><img src="./images/erhvervsphd.png" alt="erhvervsphd.png" width="1000px" class="custom" />
+</p>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org380e3ef">
+<h2 id="org380e3ef">At iagttage en kommune</h2>
+<aside class="notes">
+nil
+</aside>
+</section>
+<section id="slide-org29c2729">
+<h3 id="org29c2729">Administrativ iagttagelse</h3>
+
+<div class="figure">
+<p><img src="./images/organisationsdiagram2018.jpg" alt="organisationsdiagram2018.jpg" width="500px" class="custom" />
+</p>
+</div>
+
+<aside class="notes">
+<ul>
+<li>Organisering efter seks kerneopgaver</li>
+<li>Tre stabe</li>
+<li>Direktion</li>
+
+</ul>
+
+</aside>
+</section>
+<section id="slide-orgc6225e3">
+<h3 id="orgc6225e3">Kommunalpolitisk iagtagelse</h3>
+
+<div class="figure">
+<p><img src="./images/kommunalpolitisk_iagttagelse.png" alt="kommunalpolitisk_iagttagelse.png" width="1000px" class="custom" />
+</p>
+</div>
+
+<aside class="notes">
+<ul>
+<li>Ny kommunalbestyrelse og ny borgmester - hvad betyder det?</li>
+<li>Kommunalbestyrelsen har ikke umiddelbart adopteret kerneopgaverne</li>
+
+</ul>
+
+</aside>
+</section>
+<section id="slide-org230675b">
+<h3 id="org230675b">Samfundsvidenskabelig iagttagelse</h3>
+
+<div class="figure">
+<p><img src="./images/system-livsverden.png" alt="system-livsverden.png" width="1000px" class="custom" />
+</p>
+</div>
+<aside class="notes">
+<ul>
+<li>En samfundsvidenskabelig iagttagelse kan være med til at synliggøre konflikter</li>
+<li>En kombination af Habermas og Bourdieu</li>
+<li>System og livsverden, forskellige former for fornuft, effektivitet vs. kommunikation</li>
+<li>Kommunalbestyrelsen som mediator ml. system og livsverden, skaber en kommunal offentlighed</li>
+<li>Bourdieu, felter, behov for at se konflikterne internt i systemet</li>
+
+</ul>
+
+</aside>
+</section>
+</section>
+<section>
+<section id="slide-org1cfd242">
+<h2 id="org1cfd242">Dilemmaer i en politisk ledet organisation</h2>
+
+<div class="figure">
+<p><img src="./images/dilemmaer.png" alt="dilemmaer.png" width="1058px" class="custom" />
+</p>
+</div>
+
+<aside class="notes">
+<ul>
+<li>Det fagligt bedst &lt;-&gt; De politiske ønsker
+<ul>
+<li>Fx diskussionen om længere straffe</li>
+<li>Andre perspektiver og hensyn kommer i spil, grundholdninger</li>
+
+</ul></li>
+<li>Fastholde kompleksitet &lt;-&gt; Sikre forståelse og implementering
+<ul>
+<li>Svære udfordringer skal oversættes</li>
+<li>Amatørpolitikernes vilkår</li>
+<li>Kompleks forskning oversættes til én forklaring, én løsning</li>
+
+</ul></li>
+<li>Kritisk sans og initiativ &lt;-&gt; Politisk-adm. fingerspitzgefühl
+<ul>
+<li>Ytringsfrihed, men&#x2026;</li>
+<li>Tavhedspligt, partipolitisk neutralitet, etc.</li>
+<li>Nogle gange svært at gå i gang pga. beslutningsled</li>
+
+</ul></li>
+
+</ul>
+
+</aside>
+</section>
+</section>
+</div>
+</div>
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

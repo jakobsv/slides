@@ -6,6 +6,57 @@
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
+* At arbejde og forske i en politisk ledet organisation
+** @@comment: Hvem er jeg?@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/erhvervsphd.png]]
+** At iagttage en kommune
+#+BEGIN_NOTES
+#+END_NOTES
+*** Administrativ iagttagelse
+#+ATTR_HTML: :width 500px :class custom
+[[./images/organisationsdiagram2018.jpg]]
+
+#+BEGIN_NOTES
+- Organisering efter seks kerneopgaver
+- Tre stabe
+- Direktion
+#+END_NOTES
+*** Kommunalpolitisk iagtagelse
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/kommunalpolitisk_iagttagelse.png]]
+
+#+BEGIN_NOTES
+- Ny kommunalbestyrelse og ny borgmester - hvad betyder det?
+- Kommunalbestyrelsen har ikke umiddelbart adopteret kerneopgaverne
+#+END_NOTES
+*** Samfundsvidenskabelig iagttagelse
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/system-livsverden.png]]
+#+BEGIN_NOTES
+- En samfundsvidenskabelig iagttagelse kan være med til at synliggøre konflikter
+- En kombination af Habermas og Bourdieu
+- System og livsverden, forskellige former for fornuft, effektivitet vs. kommunikation
+- Kommunalbestyrelsen som mediator ml. system og livsverden, skaber en kommunal offentlighed
+- Bourdieu, felter, behov for at se konflikterne internt i systemet
+#+END_NOTES
+** Dilemmaer i en politisk ledet organisation
+#+ATTR_HTML: :width 1058px :class custom
+[[./images/dilemmaer.png]]
+
+#+BEGIN_NOTES
+- Det fagligt bedst <-> De politiske ønsker
+  - Fx diskussionen om længere straffe
+  - Andre perspektiver og hensyn kommer i spil, grundholdninger
+- Fastholde kompleksitet <-> Sikre forståelse og implementering
+  - Svære udfordringer skal oversættes
+  - Amatørpolitikernes vilkår
+  - Kompleks forskning oversættes til én forklaring, én løsning
+- Kritisk sans og initiativ <-> Politisk-adm. fingerspitzgefühl
+  - Ytringsfrihed, men...
+  - Tavhedspligt, partipolitisk neutralitet, etc.
+  - Nogle gange svært at gå i gang pga. beslutningsled
+#+END_NOTES
 * How to explore participatory practices in the everyday life of young people?
 ** Pitfalls in the study of young people's participatory practices
 #+BEGIN_NOTES
@@ -531,7 +582,8 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 [[./images/kommunekontekst.png]]
 ** @@comment: Dilemmaer i en politisk ledet organisation@@
 #+ATTR_HTML: :width 1058px :class custom
-[[./images/dilemmaer.png]]
+[[
+./images/dilemmaer.png]]
 * Følgegruppemøde 23. august 2017 
 ** ErhvervsPhD - hvad er det?
 *** @@comment: Ph.d. - at grave sig ned?@@
