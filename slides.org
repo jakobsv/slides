@@ -14,6 +14,8 @@
 #+BEGIN_NOTES
 #+END_NOTES
 ** Baggrunden for projektet
+#+BEGIN_NOTES
+#+END_NOTES
 *** @@comment: Byrådets vision@@
 #+ATTR_HTML: :width 640px :class custom
 [[./images/vision-side001.jpeg]]
@@ -61,6 +63,8 @@
 #+END_NOTES
 
 ** Forskningsspørgsmål
+#+BEGIN_NOTES
+#+END_NOTES
 *** Overordnet spørgsmål
 Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt sammen igangsætte politiske dannelsesprocesser?
 
