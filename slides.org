@@ -25,9 +25,9 @@
 :PROPERTIES:
 :reveal_background: images/hverdagsliv.jpeg
 :END:
-*** @@comment: Det ungdoms- og fritidspædagogiske felt som brobygger@@
+*** Det ungdoms- og fritidspædagogiske felt som brobygger?
 #+ATTR_HTML: :width 1200px :class custom
-[[./images/brobygger.png]]
+[[./images/brobygger2.png]]
 
 #+BEGIN_NOTES
 - Hvad kendetegner det ungdoms- og fritidspædagogiske felt, og hvorfor er det interessant?
@@ -42,6 +42,9 @@
 #+END_NOTES
 
 *** Det ungdoms- og fritidspædagogiske felts dannelsesbidrag?
+#+ATTR_HTML: :width 500px :class custom
+[[./images/dannelsesbidrag.png]]
+
 ** Forskningsspørgsmål
 *** Overordnet spørgsmål
 Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt sammen initiere politiske dannelsesprocesser?
@@ -55,7 +58,7 @@ Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt s
 
 *** At iagttage en kommune
 #+ATTR_HTML: :width 1000px :class custom
-[[./images/system-livsverden.png]]
+[[./images/system-livsverden_gray.png]]
 ** Dannelsen af de unge som vælgere
 *** @@comment: Intro@@
 #+REVEAL_HTML: <div class="column" style="float:left; width:30%">
@@ -139,7 +142,7 @@ Unge i dagens Danmark er uengagerede og dovne. De gider ikke bruge krudt på pol
 
 **** Et dikotomt fænomen?
 #+ATTR_HTML: :width 1000px :class custom
-[[./images/linaa-jensen.jpg]]
+[[./images/linaa-jensen_da.jpg]]
 
 #+REVEAL_HTML: <p class="citat">Jensen, Jakob Linaa (2018). <em>Vejen til demokratisk deltagelse</em>. Danmarks Medie- og Journalisthøjskole</p>
 
@@ -151,9 +154,9 @@ Unge i dagens Danmark er uengagerede og dovne. De gider ikke bruge krudt på pol
 
 **** Et fænomen observeret med gamle kategorier?
 #+ATTR_HTML: :width 700px :class custom
-[[./images/evs_action.jpg]]
+[[./images/evs_handling.jpg]]
 
-#+REVEAL_HTML: <p class="citat">Variables regarding political action in European Value Survey 1981-2008</p>
+#+REVEAL_HTML: <p class="citat">Variabler vedrørende politisk handling i European Value Survey 1981-2008</p>
 
 #+BEGIN_NOTES
 - The third pitfall is to see young people's participatory practices as a phenomenon observed with 'old' categories instead of exploring it from the youth's point of view today.
