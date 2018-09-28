@@ -10,44 +10,63 @@
 ** ErhvervsPhD - hvad er det?
 #+ATTR_HTML: :width 800px :class custom
 [[./images/erhvervsphd.png]]
+
+#+BEGIN_NOTES
+#+END_NOTES
 ** Baggrunden for projektet
 *** @@comment: Byrådets vision@@
 #+ATTR_HTML: :width 640px :class custom
 [[./images/vision-side001.jpeg]]
 #+BEGIN_NOTES
+- For det første er der en top down-baggrund.
 - Holbæk i Fællesskab er en vision, hvor den kommunale velfærd er et fælles anliggende for civilsamfundet, erhvervslivet og den kommunale organisation - hvor vi alle har et ansvar. Ikke kun politikere og medarbejdere. Kommunen er et fællesskab, ikke kun en myndighed eller et serviceorgan.
-- Nogle kalder dette kommune 3.0 og ny velfærd. Jeg vil sige, at det er at søge tilbage til den oprindelige betydning af kommune - som fællesskab.
-- Det er interessant, at i grundloven er paragraffen om kommuner placeret i kapitlet med borgernes frihedsrettigheder, og i det første udkast til grundloven var det kommunale selvstyre formuleret som en politisk rettighed - borgerne er berettigede til selv at styre deres kommunale anliggender.
 - Opgaven med politisk dannelse er implicit formuleret i byrådets vision om at videreudvikle kommunen som et stærkt, demokratisk fællesskab, hvor flere borgere er med til at løse kommunens udfordringer. For forudsætningen for denne vision er politisk dannelse, da frøene til stærke, demokratiske fællesskaber primært må lægges blandt de fremtidige generationer af borgere.
+- Det er dog spørgsmålet, om denne top down-interesse reelt eksisterer 
 
 #+END_NOTES
 *** @@comment: Politik og hverdagsliv@@
 :PROPERTIES:
 :reveal_background: images/hverdagsliv.jpeg
 :END:
+
+#+BEGIN_NOTES
+- Der er også en mere bottom up-orienteret baggrund.
+- En interesse i relationen mellem hverdagsliv og det politiske
+- Hvordan opfatter vi det politiske?
+- Normalt er det politiske noget, der hører til på Christiansborg og på rådhuse - det er noget adskilt fra hverdagslivet.
+- Men hvordan kan vi forstå det politiske som et mere åbent begreb, der generelt omfatter de kollektive forsøg på at forme samfundet - noget som omfatter hverdagslivets fællesskaber.
+- Jeg ser et mismatch mellem vores nuværende politiske institutioner - hvordan vi har indrettet det politiske - og så de globale, samfundsmæssige udfordringer. At de politiske institutioner ikke er i stand til at håndtere udfordringer. Det kalder på nye politiske dannelsesprocesser, der handler om at hjælpe unge på vej med at redesigne det politiske.
+#+END_NOTES
+
 *** Det ungdoms- og fritidspædagogiske felt som brobygger?
 #+ATTR_HTML: :width 1200px :class custom
 [[./images/brobygger2.png]]
 
 #+BEGIN_NOTES
-- Hvad kendetegner det ungdoms- og fritidspædagogiske felt, og hvorfor er det interessant?
-  - Mulighed for at bygge bro mellem 'kommunen' og de unges hverdagsliv, en brobygger ml. det almene og specialiserede
-  - Repræsentant for et bredere dannelsesideal som supplement til konkurrencestatens dannelsesideal, har en demokratisk og politisk facilitator-rolle
-  - Samskabelse i praksis før samskabelsesdiskursen
-  - En åben ramme, præget af kan-opgaver
-  - Et broget felt, forskellige uddannelses- og arbejsmæssige baggrunde
-  - Et selvbevidst og autonomt felt
-  - Et praktisk felt, optaget af store events og praktikaliteter, refleksionen måske lidt glemt
-
+- Mulighed for at bygge bro mellem de politiske institutioner, 'kommunen' og de unges hverdagsliv, feltet indebefatter institutioner, men kan samtidig være en del af det, der sker uden for institutionerne.
+- Repræsentant for et bredere dannelsesideal, måske politisk, som supplement til konkurrencestatens dannelsesideal
+- Har en demokratisk og politisk facilitator-rolle
 #+END_NOTES
 
 *** Det ungdoms- og fritidspædagogiske felts dannelsesbidrag?
 #+ATTR_HTML: :width 500px :class custom
 [[./images/dannelsesbidrag.png]]
 
+#+BEGIN_NOTES
+- Feltets dannelsesbidrag er ikke så tydeligt i den brede offentlighed og i dannelsesdiskussionen, hvor det formelle uddannelsessystem, foreningslivet og familien har hovedrollerne.
+- Men der er tre overlappende dannelsesbidrag:
+  - Dannelse til fællesskab - hvordan er vi sammen som mennesker?
+  - Dannelse til arbejdsliv - hvordan bidrager vi til at sikre samfundets velstand og velfærd?
+  - Dannelse til demokrati - hvordan kan vi kollektivt forsøge at forme samfundet?
+#+END_NOTES
+
 ** Forskningsspørgsmål
 *** Overordnet spørgsmål
-Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt sammen initiere politiske dannelsesprocesser?
+Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt sammen igangsætte politiske dannelsesprocesser?
+
+#+BEGIN_NOTES
+- Både et mere strukturelt spørgsmål: Hvad er de strukturelle muligheder for politisk dannelse? Er der noget strukturelt - samfundsmæssige tendenser, lovgivning, normer, den måde vi har lavet vores institutioner - der forhindrer politisk dannelse?
+#+END_NOTES
 
 *** Underspørgsmål
 1. Hvordan er det ungdoms- og fritidspædagogiske felt konstitueret?
@@ -56,10 +75,28 @@ Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt s
 4. Hvad kan unge og professionelle lære af at deltage i politiske dannelseseksperimenter?
 5. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
 
+#+BEGIN_NOTES
+#+END_NOTES
+
 *** At iagttage en kommune
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/system-livsverden_gray.png]]
+
+#+BEGIN_NOTES
+- Jeg har et udgangspunkt i kritisk teori, som grundlæggende handler om kritik - at vurdere samfundets nuværende tilstand og betingelserne for at opnå en ønsket fremtidig tilstand for samfundet.
+- Jeg har Holbæk Kommune som genstandsfelt - og i min iagttagelse af kommunen trækker jeg på Jürgen Habermas begrebspar system og livsverden. Kommunen er både er et system med nogle institutioner og en livsverden med fællesskaber.
+- System og livsverden, forskellige former for fornuft, effektivitet vs. kommunikation
+- Jeg supplerer et Habermas-blik på kommunen med et Bourdieu-blik, der skal være med til at synliggøre konflikterne internt i systemet
+#+END_NOTES
+
 ** Dannelsen af de unge som vælgere
+#+BEGIN_NOTES
+- Det er en delanalyse til analysen af de eksisterende dannelsespraksisser
+- Et kig på valgfremme-kampagnen
+- Ulighed i valgdeltagelse
+- Nogle stemmer bag stemmerne, hvilke dilemmaer oplever man som ung førstegangsvælgere?
+#+END_NOTES
+
 *** @@comment: Intro@@
 #+REVEAL_HTML: <div class="column" style="float:left; width:30%">
 Det gik jo umiddelbart godt...
@@ -70,6 +107,10 @@ Det gik jo umiddelbart godt...
 [[./images/aldersgrupper_09-17.png]]
 #+REVEAL_HTML: </div>
 
+#+BEGIN_NOTES
+- men der er også behov for et kritisk blik på valgfremmeindsatsen.
+- Det er ikke en udefra kritik, da jeg jo har været en del af det og været med til at rammesætte kommunens indsats.
+#+END_NOTES
 *** @@comment: Valgfremmekampagnen@@
 #+REVEAL_HTML: <div class="column" style="float:left; width:30%">
 ... men var valgfremme-kampagnnen udtryk for afpolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse?
@@ -80,32 +121,90 @@ Det gik jo umiddelbart godt...
 [[./images/kl_kampagne.jpg]]
 #+REVEAL_HTML: </div>
 
+#+BEGIN_NOTES
+- To kritikker...
+- Afpolitisering af valgdeltagelse: Valgfremmeindsatsen synliggjorde ikke de kommunalpolitiske konflikter, valghandlingen blev reduceret til et ritual frem for at være en politisk handling. Det var en adfærdspåvirkning på linje med at få unge til at lade være med at ryge.
+- Illegitimering af manglende valgdeltagelse - ikke at stemme blev set som noget i strid med samfundets moral. Det blev ignoreret, at der kunne være rationelle grunde til at lade være med at stemme. Denne illegitimering kan føre til en yderlige eksklusion af stemmer i det sociale og politiske rum.
+- Det her er en illustration fra den overordnede kampagne, og det er især denne kampagne, der er med til at fremme de to tendenser.  Men denne kommunikationsmæssige ramme får en betydning får resten af de aktiviteter, der skete i valgfremmeindsatsen, herunder UngHolbæk. 
+#+END_NOTES
+
 *** @@comment: Valgfremmekampagnen 2@@
 #+ATTR_HTML: :width 800px :class custom
 [[./images/contact.jpg]]
 
+#+BEGIN_NOTES
+- Vi dykker lige ned i et eksempel fra nogle af UngHolbæks valgfremme-aktiviteter, hvor CONTACT-teatret lavede et forumspil om det at stemme - "I don't fucking care".
+- På den ene side var spillet et modspil til den overordnede valgfremme-kampagne ved, at den forsøgte at give stemme til de skeptiske og vise, at der kan være rationalitet forbundet med at stemme.
+- På den anden side var spillet også en reproduktion af den overordnede kampagne, da det meste at stykket gik med at overbevise Erdim om det fornuftige i at stemme.
+
+#+END_NOTES
 *** Uligheden i valgdeltagelse
+#+BEGIN_NOTES
+- Et andet kritikpunkt er, at valgfremmeindsatsen lidt ignorede den politiske ulighed blandt unge. Selvfølgelig var der et særligt fokus på fx udsatte boligområder, men alligevel var der lidt en tendens til at se de unges valgdeltagelse som ét generaliseret fænomen - at de unge har en lav valgdeltagelse og derfor skal der over en bred kam laves en indsats for at få flere unge til at stemme.
+- Fx lavede vi også en lille happening på Stenhus Gymnasium, selvom STX-elever har en højere valgdeltagelse end befolkningen samlet set.
+#+END_NOTES
 **** @@comment: Holbæk Kommune@@
 #+ATTR_HTML: :width 800px :class custom
 [[./images/omraader_foerste.png]]
+
+#+BEGIN_NOTES
+- Men det er vigtigt at være OBS på at få splittet unge-kategorien op for at se hvilke uligheder, der er.
+- Det har jeg gjort ved hjælp af valgliste-data, som jeg har sammenkoblet med geografiske data - hvad er det for et område de bor, bor de et almen område, bor de alene. Jeg har ikke haft adgang til at koble på CPR, fx ift. igangværende uddannelse, men din placering i det fysiske rum kan sige noget om din placering i det sociale rum.
+- Her har jeg vist førstegangsvælgernes valgdeltagelse i de forskellige afstemningsområder. Her ser vi fx en forskel på ca. 17 pct.-point mellme Tuse og Jyderup.
+#+END_NOTES
+
 **** @@comment: Holbæk by@@
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/bydele_foerste.png]]
+
+#+BEGIN_NOTES
+- Zoomer vi ned ind på Holbæk by, hvor jeg har lavet en kvarter-inddeling, ser vi fx en forskel på ca. 45 pct.-point mellem førstegangsvælgere i Vang-kvarteret og Havekvarteret.
+- Det er ikke nogle forskelle, der som sådan er overraskende, men det er nogle forskelle, der er vigtige at være OBS på.
+#+END_NOTES
+
 **** @@comment: Køn@@
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/aldersgrupper_koen.png]]
+
+#+BEGIN_NOTES
+- Der er også en vigtig OBS'er ift. køn, hvor unge mænd stemmer markant mindre end unge kvinder.
+#+END_NOTES
+
 *** Nogle stemmer bag stemmerne
+#+BEGIN_NOTES
+- Tallene for valgdeltagelse er interessante, da de synliggør hvilke uligheder, der er, men der er behov for at komme bag tallene og undersøge, hvad der ligger til grund for ulighederne - at høre stemmerne bag stemmerne.
+- Jeg har fået adgang til en essay-konkurrence, hvor unge kunne skrive om deres erfaringer som kommunale vælgere.
+#+END_NOTES
 **** Unges politiske deltagelse som et generaliseret fænomen
 #+REVEAL_HTML: <blockquote class="citat">Jeg hører tit i fjernsynet, at vi unge ikke interesserer os for politik. Det synes jeg personligt er en kæmpe misforståelse. Stort set alle af mine venner, også mig selv er engageret i politik og bruger lang tid af sin dag på at følge med i, hvad der sker i vores samfund og, hvad man er enig og uenig i.</blockquote>
+
+#+BEGIN_NOTES
+- Et tema er unges generelle politiske deltagelse, hvor der er en del reproduktioner af unges politiske deltagelse som et generaliseret fænomen.
+- Enten bekræfter de generaliseringen om at unge er uengagerede eller også forsøger de af modbevise generaliseringen.
+#+END_NOTES
 
 **** Hvordan håndteres afmagt?
 #+REVEAL_HTML: <blockquote class="citat">Hvis du virkelig ikke kan lide politik — hvis du virkelig synes at politikerne er en flok klovne, løgnere, eller at politik er kedeligt - så er det lige præcis derfor, at du skal stemme. Det her er din chance. Din chance for at ændre noget — din chance for at udnytte dit privilegium. Din chance for at udvise optimisme for fremtiden.</blockquote>
 
+#+BEGIN_NOTES
+- Et andet tema er afmagt.
+- Det interessante ved det her citat er, at håndteringen af afmagt bliver et individuelt anliggende.
+- Det strukturelle aspekt bliver generelt ikke adresseret.
+#+END_NOTES
+
 **** Det utilgængelige valg
 #+REVEAL_HTML: <blockquote class="citat">[...] derfor vil jeg sætte mig ind i alt, hvad kommunalpolitik indebærer, hvilket parti og hvilke personer, der minder mest om mig i mine holdninger og prioriteter. Problemet, der bare hurtigt gik op for mig, at vejledende partiprogrammer og konkrete forslag er noget man skal lede længe efter, og at kommunalpolitik for en nybegynder som mig let kan være ret utilgængeligt.</blockquote>
 
+#+BEGIN_NOTES
+- Et tredje tema er kommunikationen om kommunalvalget, hvor det er svært at finde ud af, hvad det hele handler om.  
+#+END_NOTES
+
 **** Mangel på kommunalpolitisk dannelse
 #+REVEAL_HTML: <blockquote class="citat">Det var først på gymnasiet, at jeg fik indblik i politik, som altså er noget af det væsentligste i det samfund, vi alle er en del af. Men efter kun en kort periodes samfundsfag i gymnasiet, føler jeg mig altså alligevel ikke afklaret med mit politiske ståsted. og er i stor tvivl om, hvordan jeg skal udnytte min langt om længe tildelte chance for demokratisk deltagelse den 21. november.</blockquote>
+
+#+BEGIN_NOTES
+- Et fjerde tema er, at de ikke oplever, at uddannelsessystemet har været godt nok til at danne de unge til at kunne deltage i et kommunalvalg.
+#+END_NOTES
 
 *** Opsamling
 - Afpolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse som mulig eksklusion af visse positioner i det politiske rum
@@ -113,13 +212,16 @@ Det gik jo umiddelbart godt...
 - Hvad er målet? En høj valgdeltagelse eller reflekterede borgerere?
 
 #+BEGIN_NOTES
-Umiddelbart er valgfremmeindsatsen en succes ift. de unge, da flere unge stemmer, men kampagnen kan også ses som en depolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse.
+Umiddelbart er valgfremmeindsatsen en succes ift. de unge, da flere unge stemmer, men kampagnen kan også ses som en afpolitisering af valgdeltagelse og illegitimering af manglende valgdeltagelse.
 - Dykker vi ned i tallene for de unge, kan vi desuden se en ulighed i valgdeltagelsen blandt de unge, hvilket nogle gange bliver overset, når vi taler om unges samfundsengagement.
 - Der kan også iagttages en usikker førstegangsvælger, som reproducerer generaliseringen om unges manglende samfundsengagement.
+- Et grundlæggende problem har været, at en høj valgdeltagelse er blevet set som et mål i sig selv.
 - Vi skal derfor gå fra at danne vælgere til refleksive borgere.
 #+END_NOTES
 
 ** Hvordan udforsker vi deltagelsespraksisser i unges hverdagsliv?
+#+BEGIN_NOTES
+#+END_NOTES
 *** Faldgruber i studiet af unges deltagelsespraksisser
 #+BEGIN_NOTES
 #+END_NOTES
