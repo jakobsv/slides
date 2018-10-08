@@ -1,10 +1,128 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
 #+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1>"
-#+LANGUAGE: da
+#+LANGUAGE: en
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
+
+* Learning processes in political citizenship
+** Background of the project
+#+BEGIN_NOTES
+#+END_NOTES
+*** @@comment: Byrådets vision@@
+#+ATTR_HTML: :width 640px :class custom
+[[./images/vision-side001.jpeg]]
+#+BEGIN_NOTES
+- For det første er der en top down-baggrund.
+- Holbæk i Fællesskab er en vision, hvor den kommunale velfærd er et fælles anliggende for civilsamfundet, erhvervslivet og den kommunale organisation - hvor vi alle har et ansvar. Ikke kun politikere og medarbejdere. Kommunen er et fællesskab, ikke kun en myndighed eller et serviceorgan.
+- Opgaven med politisk dannelse er implicit formuleret i byrådets vision om at videreudvikle kommunen som et stærkt, demokratisk fællesskab, hvor flere borgere er med til at løse kommunens udfordringer. For forudsætningen for denne vision er politisk dannelse, da frøene til stærke, demokratiske fællesskaber primært må lægges blandt de fremtidige generationer af borgere.
+- Det er dog spørgsmålet, om denne top down-interesse reelt eksisterer 
+
+#+END_NOTES
+*** @@comment: Politik og hverdagsliv@@
+:PROPERTIES:
+:reveal_background: images/hverdag_collage2.jpg
+:END:
+
+#+BEGIN_NOTES
+- Der er også en mere bottom up-orienteret baggrund.
+- En interesse i relationen mellem hverdagsliv og det politiske
+- Hvordan opfatter vi det politiske?
+- Normalt er det politiske noget, der hører til på Christiansborg og på rådhuse - det er noget adskilt fra hverdagslivet.
+- Men hvordan kan vi forstå det politiske som et mere åbent begreb, der generelt omfatter de kollektive forsøg på at forme samfundet - noget som omfatter hverdagslivets fællesskaber.
+- Jeg ser et mismatch mellem vores nuværende politiske institutioner - hvordan vi har indrettet det politiske - og så de globale, samfundsmæssige udfordringer. At de politiske institutioner ikke er i stand til at håndtere udfordringer. Det kalder på nye politiske dannelsesprocesser, der handler om at hjælpe unge på vej med at redesigne det politiske.
+#+END_NOTES
+
+*** The youth work field as bridge builder?
+#+ATTR_HTML: :width 1200px :class custom
+[[./images/youthwork.png]]
+
+#+BEGIN_NOTES
+- Mulighed for at bygge bro mellem de politiske institutioner, 'kommunen' og de unges hverdagsliv, feltet indebefatter institutioner, men kan samtidig være en del af det, der sker uden for institutionerne.
+- Repræsentant for et bredere dannelsesideal, måske politisk, som supplement til konkurrencestatens dannelsesideal
+- Har en demokratisk og politisk facilitator-rolle
+#+END_NOTES
+
+** Research questions
+#+BEGIN_NOTES
+#+END_NOTES
+*** Main question
+How can young people and professionals in the youth work field initiate learning processes in political citizenship?
+
+#+BEGIN_NOTES
+- Både et mere strukturelt spørgsmål: Hvad er de strukturelle muligheder for politisk dannelse? Er der noget strukturelt - samfundsmæssige tendenser, lovgivning, normer, den måde vi har lavet vores institutioner - der forhindrer politisk dannelse?
+#+END_NOTES
+
+*** Sub questions
+1. How is the youth work field constituted?
+2. Which learning processes in political citizenship is going on in the youth work field?
+3. How is the political practiced in the life world of young people?
+4. What can young people and professionals learn from the participation in experiments with learning processes in political citizenship?
+5. Which structural drivers and barriers exist regarding learning processes in political citizenship?
+
+#+BEGIN_NOTES
+#+END_NOTES
+
+** An example - the production of municipal voters
+#+BEGIN_NOTES
+- Det er en delanalyse til analysen af de eksisterende dannelsespraksisser
+- Et kig på valgfremme-kampagnen
+- Ulighed i valgdeltagelse
+- Nogle stemmer bag stemmerne, hvilke dilemmaer oplever man som ung førstegangsvælgere?
+#+END_NOTES
+
+*** @@comment: Valgfremmekampagnen@@
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+A depoliticizing of participation in elections? 
+
+A delegitimizing of non-participation in elections?
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+#+ATTR_HTML: :width 640px :class custom
+[[./images/kl_kampagne.jpg]]
+#+REVEAL_HTML: </div>
+
+#+BEGIN_NOTES
+- To kritikker...
+- Afpolitisering af valgdeltagelse: Valgfremmeindsatsen synliggjorde ikke de kommunalpolitiske konflikter, valghandlingen blev reduceret til et ritual frem for at være en politisk handling. Det var en adfærdspåvirkning på linje med at få unge til at lade være med at ryge.
+- Illegitimering af manglende valgdeltagelse - ikke at stemme blev set som noget i strid med samfundets moral. Det blev ignoreret, at der kunne være rationelle grunde til at lade være med at stemme. Denne illegitimering kan føre til en yderlige eksklusion af stemmer i det sociale og politiske rum.
+- Det her er en illustration fra den overordnede kampagne, og det er især denne kampagne, der er med til at fremme de to tendenser.  Men denne kommunikationsmæssige ramme får en betydning får resten af de aktiviteter, der skete i valgfremmeindsatsen, herunder UngHolbæk. 
+#+END_NOTES
+
+*** A missing consideration of political inequality?
+#+ATTR_HTML: :width 1200px :class custom
+[[./images/bydele_foerste.png]]
+
+#+REVEAL_HTML: <p class="citat">First time voters turnout in the 2017 municipal election in different areas of Holbæk</em></p>
+
+#+BEGIN_NOTES
+- Et andet kritikpunkt er, at valgfremmeindsatsen lidt ignorede den politiske ulighed blandt unge. Selvfølgelig var der et særligt fokus på fx udsatte boligområder, men alligevel var der lidt en tendens til at se de unges valgdeltagelse som ét generaliseret fænomen - at de unge har en lav valgdeltagelse og derfor skal der over en bred kam laves en indsats for at få flere unge til at stemme.
+- Fx lavede vi også en lille happening på Stenhus Gymnasium, selvom STX-elever har en højere valgdeltagelse end befolkningen samlet set.
+- Men det er vigtigt at være OBS på at få splittet unge-kategorien op for at se hvilke uligheder, der er.
+- Det har jeg gjort ved hjælp af valgliste-data, som jeg har sammenkoblet med geografiske data - hvad er det for et område de bor, bor de et almen område, bor de alene. Jeg har ikke haft adgang til at koble på CPR, fx ift. igangværende uddannelse, men din placering i det fysiske rum kan sige noget om din placering i det sociale rum.
+- Zoomer vi ned ind på Holbæk by, hvor jeg har lavet en kvarter-inddeling, ser vi fx en forskel på ca. 45 pct.-point mellem førstegangsvælgere i Vang-kvarteret og Havekvarteret.
+- Det er ikke nogle forskelle, der som sådan er overraskende, men det er nogle forskelle, der er vigtige at være OBS på.
+
+#+END_NOTES
+
+*** The unsecure first time voter
+#+REVEAL_HTML: <blockquote class="citat"> It was only at high school that I gained insight into politics, which is one of the most important in the society we are all part of. But after only a short period of social studies in high school, I do not feel clear yet with my political point of view. and I doubt how to take advantage of my long-awaited chance of democratic participation on November 21.</blockquote>
+
+#+BEGIN_NOTES
+- Tallene for valgdeltagelse er interessante, da de synliggør hvilke uligheder, der er, men der er behov for at komme bag tallene og undersøge, hvad der ligger til grund for ulighederne - at høre stemmerne bag stemmerne.
+- Jeg har fået adgang til en essay-konkurrence, hvor unge kunne skrive om deres erfaringer som kommunale vælgere.
+- Et tema er fx, at de ikke oplever, at uddannelsessystemet har været godt nok til at danne de unge til at kunne deltage i et kommunalvalg.
+#+END_NOTES
+
+*** Some questions
+- Who should highlight and explain the local political conflicts?
+- What is the objective? A high turnout or reflected citizens?
+- Is it possible to give voice to the critique of the political institutions from within the political institutions?
+
+#+BEGIN_NOTES
+#+END_NOTES
 
 * Præsentation af ph.d.-projekt
 ** ErhvervsPhD - hvad er det?
