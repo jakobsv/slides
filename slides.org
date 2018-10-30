@@ -1,10 +1,184 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
 #+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1>"
-#+LANGUAGE: en
+#+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
+
+* Politisk dannelse i det ungdoms- og fritids-pædagogiske felt
+** Hvordan kan vi forstå politisk dannelse?
+#+BEGIN_NOTES
+#+END_NOTES
+
+*** @@comment: Biesta 1@@
+:PROPERTIES:
+:reveal_background: images/sheep.jpg
+:END:
+
+#+BEGIN_NOTES
+- Hvordan forstår jeg politisk dannelse?
+- Hjælp fra Gert Biesta - her forsidebilledet fra "Demokratilæring i skole og samfund"
+- Hvem er den gode borger? Borgeren, der er en del af helheden? Eller borgeren, der er out of order? 
+#+END_NOTES
+
+*** @@comment: Biesta 2@@
+:PROPERTIES:
+:reveal_background: images/sheep.jpg
+:END:
+
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/soci-sub.png]]
+
+#+REVEAL_HTML: <p class="citat" style="color:white">Gert Biesta (2013). <em>Demokratilæring i skole og samfund - <br>uddannelse, livslang læring og medborgerskabets politik</em></p>
+
+#+BEGIN_NOTES
+- To forståelser af medborgerlig læring
+- Socialisation: Føre nytilkomne ind i den socio-politiske orden. Samfundet har et problem med borgerne - derfor skal de unge opdrages til aktivt medborgerskab - de skal have kompetencer og viden. Det handler om et fremtidigt medborgerskab.
+- Subjektifikation: Processen med at blive et demokratisk subjekt. Borgerne har et problem med samfundet - derfor skal der skabes muligheder for at unge kan deltage i det demokratiske eksperiment og udfordre den socio-politiske orden. Det handler om et aktuelt medborgerskab.
+- Som ErhvervsPhD-studerende i en kommune er jeg på den ene side ansat til en socialisationsopgave. Holbæk Kommune vil have aktivt medborgerskab - borgere der stemmer til valg og bidrager til løsningen af velfærdsopgaverne. Hvordan producerer vi de borgere? 
+På den anden side er min forskningsmæssige interesse subjektifikationen - relationen mellem hverdagsliv og det politiske. Hvordan opfatter vi det politiske? Hvordan kan det lukkes ud af den institutionelle ramme og åbnes op, så det generelt omfatter de kollektive forsøg på at forme samfundet - noget som omfatter hverdagslivets fællesskaber.
+#+END_NOTES
+
+** Det ungdoms- og fritidspædagogiske felt - hvad er det, og hvorfor er det interessant?
+#+BEGIN_NOTES
+#+END_NOTES
+*** Det ungdoms- og fritidspædagogiske felts dannelsesbidrag?
+#+ATTR_HTML: :width 500px :class custom
+[[./images/dannelsesbidrag.png]]
+
+#+BEGIN_NOTES
+- Feltets dannelsesbidrag er ikke så tydeligt i den brede offentlighed og i dannelsesdiskussionen, hvor det formelle uddannelsessystem, foreningslivet og familien har hovedrollerne.
+- Men der er tre overlappende dannelsesbidrag:
+  - Dannelse til fællesskab - hvordan er vi sammen som mennesker?
+  - Dannelse til arbejdsliv - hvordan bidrager vi til at sikre samfundets velstand og velfærd?
+  - Dannelse til demokrati - hvordan kan vi kollektivt forsøge at forme samfundet?
+#+END_NOTES
+
+*** Det ungdoms- og fritidspædagogiske felt som brobygger?
+#+ATTR_HTML: :width 1200px :class custom
+[[./images/uf-felt.png]]
+
+#+BEGIN_NOTES
+- Mulighed for at bygge bro mellem de politiske institutioner, 'kommunen' og de unges hverdagsliv, feltet indebefatter institutioner, men kan samtidig være en del af det, der sker uden for institutionerne.
+- Repræsentant for et bredere dannelsesideal, måske politisk, som supplement til konkurrencestatens dannelsesideal
+- Har en demokratisk og politisk facilitator-rolle
+#+END_NOTES
+
+** Forskningsspørgsmål
+#+BEGIN_NOTES
+#+END_NOTES
+
+*** Overordnet spørgsmål
+Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt sammen igangsætte politiske dannelsesprocesser?
+
+#+BEGIN_NOTES
+- Både et mere strukturelt spørgsmål: Hvad er de strukturelle muligheder for politisk dannelse? Er der noget strukturelt - samfundsmæssige tendenser, lovgivning, normer, den måde vi har lavet vores institutioner - der forhindrer politisk dannelse?
+#+END_NOTES
+
+*** Underspørgsmål
+1. Hvordan er det ungdoms- og fritidspædagogiske felt konstitueret?
+2. Hvilke politiske dannelsespraksisser foregår der i det ungdoms- og fritidspædagogiske felt?
+3. Hvordan praktiseres det politiske i de unges livsverden?
+4. Hvad kan unge og professionelle lære af at deltage i politiske dannelseseksperimenter?
+5. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
+
+#+BEGIN_NOTES
+#+END_NOTES
+
+** Politisk dannelse fra et ungeperspektiv
+#+BEGIN_NOTES
+#+END_NOTES
+*** @@comment: Needle in hay stack@@
+:PROPERTIES:
+:reveal_background: images/hverdag_collage2.jpg
+:END:
+
+#+BEGIN_NOTES
+Det foto-eliciterede interview:
+1. De unges perspektiv
+2. Et indblik i deltagelsespraksissernes kompleksitet
+3. Bidrager med righoldige fremstillinger af forskellige typer af deltagelsespraksisser
+
+Det politiske opstår med samfundsmæssig kritik og synliggørelse af konflikter, opstilling af alternativer og forsøg på at få alternativerne gennemført. Det interessante er ikke, hvad der mere eller mindre entydigt kan kategoriseres som politisk, men det der /kunne/ blive politisk - de politiske ansatser.
+
+I første omgang kigger jeg derfor efter de unges kritik. Jeg har foretaget en versus-kodning. Koncepter, fænomener, grupper, etc., der er i konflikt med hinanden, eller modsætninger mellem ideal og praksis eller opstilling af alternativ til nuværende praksis.
+
+#+END_NOTES
+
+*** Kritik af folkeskolen
+#+REVEAL_HTML: <b>"Vi skal nok tage det op" vs. "Der skete ikke noget" </b><br>
+
+#+REVEAL_HTML: <blockquote class="citat">
+Det var en helt almindelig folkeskole. Og jeg blev mobbet hver dag og truet og alt muligt. Og så prøvede jeg et par gange at sige noget til lærerne, og de var sådan: "Vi skal nok tage det op i klassen i morgen, og vi skal nok tage det op i klassen i morgen". Der skete ikke noget. [...] Og har vi kommet op i en slåskamp, jamen, så er den ikke blevet stoppet af nogle af lærerne eller noget som helst.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+Modsætning mellem en forventning om, at voksne hjælper, og så en erfaring med, at det gjorde de ikke.
+#+END_NOTES
+
+*** Kritik af det sociale system
+#+REVEAL_HTML: <b>"18 sagsbehandlere" vs. "Holde sig til én sagsbehandler" </b><br>
+
+#+REVEAL_HTML: <div class="column" style="float:left; width:40%">
+#+ATTR_HTML: :height 400 :class custom
+[[./images/S17.jpg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:60%">
+#+REVEAL_HTML: <blockquote class="citat2">
+S: [...] jeg fik at vide: "Sebastian, her er din nye kontaktperson", og der gik sådan 2 måneder, før jeg fik hans telefonnummer. Og så havde jeg fået sagsbehandler. Så fik jeg en ny igen. På tre år der har jeg haft - hvad? - 18 forskellige sagsbehandlere. [...]
+
+J: Har du nogen sådan ideer til, hvordan de kan blive bedre, sådan ud fra dine erfaringer?
+
+S: Ja, at holde sig - ét - til én sagsbehandler. Og så er det den, der er der hele tiden. I stedet for at der skal komme nye hele tiden og sådan noget.
+
+#+REVEAL_HTML: </blockquote>
+#+REVEAL_HTML: </div>
+
+#+BEGIN_NOTES
+Kritik af nuværende praksis og opstilling af alternativ.
+#+END_NOTES
+
+*** Kritik af politik
+#+REVEAL_HTML: <b>"Politik" vs. "Et sted at bo og et arbejde"</b><br>
+
+#+REVEAL_HTML: <blockquote class="citat">
+[...] jeg går ikke op i politik eller noget af alt det der. Og jeg har også allerede sagt til min lærer og min mor og alle, at til næste valg [...] "det er fint nok, jeg skal nok gå derop og så også stemme blankt". Fordi jeg ved ikke hvad nogen af dem de siger, og jeg er egentlig også lidt ligeglad, så længe jeg kan få mig en lejlighed og et sted at bo og et arbejde.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+De to foregående eksempler kunne få et politisk udtryk, men det politiske er noget fremmed, noget der ikke relaterer sig til kampen for det gode liv. Politik som koncept er i modsætning hverdagslivet.
+#+END_NOTES
+
+*** Kritik af folkemødet
+#+REVEAL_HTML: <b>"Studentereksamen" vs. "Håndværker"</b><br>
+#+REVEAL_HTML: <blockquote class="citat">
+[...] det de egentlig primært snakkede om hele tiden, det var faktisk studentereksamen og alt sådan noget. Og folk de skal bare være læger og advokater og alt sådan noget. Og jeg sad bare der på vejen hjem, der sad jeg bare og tænke over, hele tiden sådan noget studenter og gymnasial uddannelse og alt muligt. Hvorfor snakkede de ikke om håndværker?
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+Der er dog nogle, der forsøger at ham til at interessere sig for politik og tager ham med til folkemødet, men det handler ikke om at give ham en stemme, men om at opdrage. Der er en modsætning mellem, hvad de snakker om, og hvad der er vigtigt for ham.
+#+END_NOTES
+
+*** Kritik af manglende steder
+#+REVEAL_HTML: <b>"Mange unge vil lave rap" vs. "Ikke nogen steder"</b><br>
+
+#+REVEAL_HTML: <blockquote class="citat">
+[...] der er jo mange unge, der godt vil lave rap og sådan noget. Jeg kender faktisk et par stykker, der laver rap og sådan noget. [...] der er jo heller ikke nogen steder, hvor man kan indspille det eller sådan noget. Og man skal selv ud og købe lydfil til 10.000 kr. og mikrofon og alt muligt. Og så også have sådan indspilningsprogram på computeren. Det koster også penge.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+Rap-musikken kunne være en mulighed for at tage nogle individuelle erfaringer og bringe dem ud i et offentligt rum. Men her er en modsætning mellem et behov og så de faktiske muligheder.
+#+END_NOTES
+
+*** Opsamling og spørgsmål til det videre arbejde
+- Der bliver formuleret vigtige kritikpunkter, men de forbliver - indtil videre - private refleksioner.
+- Det politiske dannelsesforsøg virker i dette tilfælde som en ensidig proces - som socialisation.
+- Hvordan kan der skabes rum til en kollektiv kritikformulering ud fra individuelle, sociale og psykiske problemer? Kan det kobles til politisk handling? Kan kommunale aktører facilitere det rum?
+
+#+BEGIN_NOTES
+#+END_NOTES
 
 * Learning processes in political citizenship
 ** Background of the project
