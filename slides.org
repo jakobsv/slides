@@ -7,6 +7,126 @@
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
 * Politisk dannelse i det ungdoms- og fritids-pædagogiske felt
+** ErhvervsPhD - hvad er det?
+#+ATTR_HTML: :width 800px :class custom
+[[./images/erhvervsphd.png]]
+
+#+BEGIN_NOTES
+#+END_NOTES
+
+** Hvordan kan vi forstå politisk dannelse?
+#+BEGIN_NOTES
+#+END_NOTES
+
+*** @@comment: Biesta@@
+:PROPERTIES:
+:reveal_background: images/sheep.jpg
+:END:
+
+#+BEGIN_NOTES
+- Hvordan forstår jeg politisk dannelse?
+- Hjælp fra Gert Biesta - her forsidebilledet fra "Demokratilæring i skole og samfund"
+- Hvem er den gode borger? Borgeren, der er en del af helheden? Eller borgeren, der er out of order?
+- To forståelser af medborgerlig læring
+- Socialisation: Føre nytilkomne ind i den socio-politiske orden. Samfundet har et problem med borgerne - derfor skal de unge opdrages til aktivt medborgerskab - de skal have kompetencer og viden. Det handler om et fremtidigt medborgerskab.
+- Subjektifikation: Processen med at blive et demokratisk subjekt. Borgerne har et problem med samfundet - derfor skal der skabes muligheder for at unge kan deltage i det demokratiske eksperiment og udfordre den socio-politiske orden. Det handler om et aktuelt medborgerskab.
+- Som ErhvervsPhD-studerende i en kommune er jeg på den ene side ansat til en socialisationsopgave. Holbæk Kommune vil have aktivt medborgerskab - borgere der stemmer til valg og bidrager til løsningen af velfærdsopgaverne. Hvordan producerer vi de borgere? 
+På den anden side er min forskningsmæssige interesse subjektifikationen - relationen mellem hverdagsliv og det politiske. Hvordan opfatter vi det politiske? Hvordan kan det lukkes ud af den institutionelle ramme og åbnes op, så det generelt omfatter de kollektive forsøg på at forme samfundet - noget som omfatter hverdagslivets fællesskaber.
+
+#+END_NOTES
+
+** Det ungdoms- og fritidspædagogiske felt - hvorfor er det interessant?
+#+BEGIN_NOTES
+#+END_NOTES
+*** Det ungdoms- og fritidspædagogiske felt som brobygger
+#+ATTR_HTML: :width 1200px :class custom
+[[./images/uf-felt.png]]
+
+#+BEGIN_NOTES
+- Mulighed for at bygge bro mellem de politiske institutioner, 'kommunen' og de unges hverdagsliv, feltet indebefatter institutioner, men kan samtidig være en del af det, der sker uden for institutionerne.
+- Repræsentant for et bredere dannelsesideal, måske politisk, som supplement til konkurrencestatens dannelsesideal
+- Har en demokratisk og politisk facilitator-rolle
+#+END_NOTES
+
+** Forskningsspørgsmål
+#+BEGIN_NOTES
+#+END_NOTES
+
+*** Overordnet spørgsmål
+Hvorvidt kan unge og professionelle i det ungdoms- og fritidspædagogiske felt sammen igangsætte politiske dannelsesprocesser?
+
+#+BEGIN_NOTES
+- Både et mere strukturelt spørgsmål: Hvad er de strukturelle muligheder for politisk dannelse? Er der noget strukturelt - samfundsmæssige tendenser, lovgivning, normer, den måde vi har lavet vores institutioner - der forhindrer politisk dannelse?
+#+END_NOTES
+
+*** Underspørgsmål
+1. Hvordan er det ungdoms- og fritidspædagogiske felt konstitueret?
+2. Hvilke politiske dannelsespraksisser foregår der i det ungdoms- og fritidspædagogiske felt?
+3. Hvordan praktiseres det politiske i de unges livsverden?
+4. Hvad kan unge og professionelle lære af at deltage i politiske dannelseseksperimenter?
+5. Hvilke strukturelle drivkræfter og barrierer er der for politisk dannelse?
+
+#+BEGIN_NOTES
+#+END_NOTES
+
+** De unges udøvelse af kritik?
+#+BEGIN_NOTES
+- Det politiske opstår med samfundsmæssig kritik og synliggørelse af konflikter, opstilling af alternativer og forsøg på at få alternativerne gennemført. 
+#+END_NOTES
+*** Hvad kan kritik i offentligheden?
+#+REVEAL_HTML: <blockquote class="citat">
+Loven om egenbetaling gav ikke mening for mig. Jeg havde været til et hav af snakke om aktivering, og det virkede som om, at det var det vigtigste mål. Hvordan kan det så retfærdiggøres, at man samtidig har en lov, der fjerner incitamentet til at arbejde og holder de unge fanget på offentlig forsørgelse? Det underminerer jo samfundets interesse i at styrke selvstændighed og arbejdsparathed hos udsatte.
+#+REVEAL_HTML: </blockquote>
+
+#+REVEAL_HTML: <p class="citat">Helga Sofie Nielsen: <em>Det skal kunne betale sig at arbejde - også for anbragte unge. </em> <br>Kronik i Information, 20. juli 2017</p>
+
+#+BEGIN_NOTES
+- Kritik er godt - det er gennem kritik og offentlig debat, at vores samfund udvikler sig og bliver forbedret.
+- Fx denne kronik fra en tidligere anbragt, der gjorde offentligheden opmærksom på en regel, der giver kommunerne hjemmel til at indkræve penge fra unges fritidsjob. En klar kritik der gør opmærksom på at en fælles norm om at bidrage på arbejdsmarkedet ikke kan efterleves. En kritik, der ikke går efter personer, men efter lovgivning og strukturer.
+- Udfordringen er, at meget kritik i dag, særligt på de sociale medier, går efter personer i en ubehagelig tone, og hvor man ikke underbygger, det man siger, med viden. 
+- Der er et uforløst kritikpotentiale, hvis vi hører mere efter, hvad de unge fortæller om deres hverdag på tværs af de forskellige institutionelle kontekster, som de befinder sig.
+#+END_NOTES
+
+*** @@comment: Needle in hay stack@@
+:PROPERTIES:
+:reveal_background: images/hverdag_collage2.jpg
+:END:
+
+#+BEGIN_NOTES
+Det foto-eliciterede interview:
+1. De unges perspektiv
+2. Et indblik i deltagelsespraksissernes kompleksitet
+3. Bidrager med righoldige fremstillinger af forskellige typer af deltagelsespraksisser
+
+- Det interessante er ikke, hvad der mere eller mindre entydigt kan kategoriseres som politisk, men det der /kunne/ blive politisk - de kritiske ansatser, der kunne antage en politisk form.
+- I første omgang kigger jeg derfor efter de unges kritik. Jeg har foretaget en versus-kodning. Koncepter, fænomener, grupper, etc., der er i konflikt med hinanden, eller modsætninger mellem ideal og praksis eller opstilling af alternativ til nuværende praksis.
+
+#+END_NOTES
+
+*** 'Tredje verden sulter' vs. 'Vi sidder bare her'
+#+REVEAL_HTML: <blockquote class="citat">
+[...] det kom i det der ateisme fra 9. klasse, og stadig til i dag har jeg haft sådan let til moderat depression. [...] Men der kommer sådan noget meningsløshed først. [...] i lang tid var det sådan noget med, hvorfor vi ikke sætter pris på de privilegier, vi har, i forhold til at den tredje verden sulter, og der dør 10.000 mennesker hver dag, imens vi bare sidder her og brokker os over vejret heroppe.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+- En udfordring med kritik i dag, er mange ting bliver til et personligt ansvar i stedet et kollektivt problem, som løses i civilsamfundet og politiske insitutitoner.
+- Fx med Jonas her, hvor han fortæller om hans problemer med depression, som han relaterer til en generel meningsløshed - "vi sidder bare her, mens verden sulter".
+- Noget jeg vil kigge på er hvordan kritikken bliver formuleret af de unge - hvorvidt bliver individuelle problemer til et kollektivt anliggende? Eller sker der en internalisering af kollektive problemer? Er det en tendens? Det er nok ikke noget, som jeg kommer til at svare entydigt på, men det er et interessant spørgsmål.
+#+END_NOTES
+
+*** 'Stille protester' vs. 'Gruppeterapi og medicin'
+#+REVEAL_HTML: <blockquote class="citat">
+[...] måske i form af mine stille protester. For eksempel efter min skolepsykolog, hvor hun ringede til mine forældre uden om mig, så nægtede jeg at komme hos hende mere. Også min psykiater blev jeg udskrevet, fordi at jeg synes ikke, at gruppeterapi og medicin var en god idé. Så på den måde tror jeg, at de opfangede, at der er ligesom et eller andet, der går galt.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+- Når de unge møder de offentlige institutioner, er der måske en kritik, som vi kan være bedre til at frembringe og lytte til.
+- Fx her med Jonas igen, hvor han fortæller, at han har noget kritik af hans forløb med depression, og hvor jeg spørger, om systemet har kendskab til hans kritik. 
+- Der bliver formuleret vigtige kritikpunkter, men de bliver ikke bragt ind i den offentlige debat. Det er en stille protest - kan vi antage, at den bliver opfanget? 
+- Hvordan kan der skabes rum til en kollektiv kritikformulering ud fra individuelle, sociale og psykiske problemer? Kan det kobles til politisk handling? Kan kommunale aktører facilitere det rum?
+#+END_NOTES
+
+* USIP oktober 2018
 ** Hvordan kan vi forstå politisk dannelse?
 #+BEGIN_NOTES
 #+END_NOTES
@@ -180,7 +300,7 @@ Rap-musikken kunne være en mulighed for at tage nogle individuelle erfaringer o
 #+BEGIN_NOTES
 #+END_NOTES
 
-* Learning processes in political citizenship
+* DPU-kursus oktober 2018
 ** Background of the project
 #+BEGIN_NOTES
 #+END_NOTES
@@ -298,7 +418,7 @@ A delegitimizing of non-participation in elections?
 #+BEGIN_NOTES
 #+END_NOTES
 
-* Præsentation af ph.d.-projekt
+* UTAU september 2018
 ** ErhvervsPhD - hvad er det?
 #+ATTR_HTML: :width 800px :class custom
 [[./images/erhvervsphd.png]]
@@ -694,7 +814,7 @@ Udfordringer:
   - Tavhedspligt, partipolitisk neutralitet, etc.
   - Nogle gange svært at gå i gang pga. beslutningsled
 #+END_NOTES
-* How to explore participatory practices in the everyday life of young people?
+* NSA 2018
 ** Pitfalls in the study of young people's participatory practices
 #+BEGIN_NOTES
 #+END_NOTES
@@ -819,86 +939,6 @@ Challenges:
 - She mentions the masking ban or the burka ban as something that has an influence on her practice. More than a week ago this was a legal act but from 1st of August wearing a suit like this became illegal - or maybe illegal - it's a bit difficult say. But if she wears it today it could more directly perhaps be seen as a political protest against some politicians that tries to limit her freedom.
 - So this an example of a practice where an engagement in world exists side by side with something that on the surface is a political disengagement. The learning point from this example is that the interesting thing with participatory practices in the everyday life of young people is not to judge what is political or not, but to explore what could be political.
 #+END_NOTES
-
-* Klippet
-** How to conceptualize young people's participatory practices?
-#+BEGIN_NOTES
-- An analytical tool to assess the relevance of the differenct pratices could be this typology developed by Ekman and Amnå. I think the strength of this typology is that it tries to encompas all forms of a political human-being. And they have tried to include both civic engagement and political participation in the same typology which elsewhere is concepts that sometimes live a parallel life.
-- They have 3 overall categories on the horizontal line: 1) Political participation where the political aspect is quite clear - it is manifest. 2) Civil participation where the political aspect is blurry - it's latent. It's there but it's hidden and have not yet been unfolded. 3) Non-participation where there is a political disfaction. This is combined with with 2 categories on the vertical line: Individual and collective forms of participation.
-- I have made a "quick and dirty"-analysis and tried to put in some pictures from my data representing different practices.
-- *Political participation* is divided into formal political participation and activism that again is divided into legal and illegal. In the category of formal political participation an individual form coulde be to vote at the local elections and a collective form is to participate in a political youth organization. In the category of activism I have not yet met illegal practices so these boxes are empty. Legal activism could in the invidual form be to put up political stickers on a public toilet and in the collective form to participate in a demonstration. 
-- *Civil participation* is divided into social involvement and civic engagement. Social involvement is an attention to societal and political issues - in the individual form it could be to get interested in the issue of global inequality on a journey to India. In the collective form it could be to be a part of a subculture called the furry fandom and make happenings promoting happy interactions in the public space. Civic engagement is in this typology regarded as pre-political actions, and in the indvidual form it could be to watch a film about a socieal issue and in the collective form to participate in a scout organisation.
-- In the typology Ekman and Amnå have also included *non-participation* which they consider as "the very opposite of engagement and participation" and they divide into active forms where you fell disgusted with politics and passive forms where you just don't care about politics. The picture with buying a energy drink is not an antipoltical action but the boy who took the picture was very eksplicit in his disregard of the political instituions. And the two pictures of the apolitical actions show an indivdual and a collective action that is not imediately connected to socicial and political issues.
-
-#+END_NOTES
-#+ATTR_HTML: :width 1000px :class custom
-[[./images/typologi_deltagelse.jpg]]
-
-** Can we talk with the 'non-political' youth about the political?
-#+BEGIN_NOTES
-Fælles for alle er, at de har været interesseret i at give deres mening til kende om politisk deltagelse - det er første skridt mod aktiv deltagelse. De helt uinteresserede kan man vanskeligt interviewe, da det er meget svært at snakke ret længe om noget, man ikke gør eller interesserer sig for.
-
-#+END_NOTES
-
-#+REVEAL_HTML: <blockquote class="citat">
-Common to all is that they have been interested in giving their opinion to political participation - it is the first step towards active participation. The uninterested people can be difficult to interview, as it is very difficult to talk for a long time about something that you don't do or don't care about.
-#+REVEAL_HTML: </blockquote>
-
-#+REVEAL_HTML: <p class="citat">Hansen, Niels-Henrik Møller and Sørensen, Niels Ulrik (2014). <em>Unges motivation for politisk deltagelse. Syv former for politisk engagement.</em> Center for Ungdomsforskning </p>
-
-** Noter
-*** Social involvement or ilegal protest?
-#+BEGIN_NOTES
-"Jeg kan godt lide at gøre det i offentligheden fordi at jeg set rigtig meget inde på nettet hvor folk de gør det og folk bliver jo glade. Og så tænker jeg også at jeg synes bare der er et eller andet virkelig virkelig nice ved at der er et eller andet lille barn der ser en og bliver rigtig rigtig glad og vil have krammer og high-five og billede [...]"
-
-"I like do it in the public [...] I just think it's really, really nice that a little child sees you and get really happy and want a hug and highfive and picture [...]"
-
-"Der er jo kommet den der med, nu kan jeg ikke huske hvad det er, det der med okay du må ikke have den her hovedbeklædning på og alt det der med at dit ansigt må ikke være dækket til. Jeg har ikke oplevet endnu at der var nogle der kom hen og sagde til mig: det der må du ikke. Jeg tror også at Fætter BR og Netto hvor jeg har gået ind med det på hvor der ikke er blevet sagt noget. Men der er mange mennesker og jeg tror også der er nogle af mine andre venner der har været ude for et eller andet okay, det her må du ikke her fordi siger det her og det her. Så kan man sige, der høre det jo lidt sammen, men jeg ikke rigtig oplavet det endnu. Hvilke er, jeg er ret glad for. Men det kommer sikkert snart vil jeg tro."
-
-[...] I also think that some of my friends have experienced something about 'ok, you are not allowed to do this because it says this and this. So you can say it is a little bit related, but I have not experienced it yet which I'm quite glad about. But it will very likely come soon, I think."
-
-"Altså det synes jeg ikke på den måde [at det er en politisk handling]. Man kan sige, det er der nogle der tænker at jeg på en måde gør det, på en måde performance. Jeg gør det jo også for at vise det her frem. Men det gør jeg egentlig også når jeg ikke har det der på. Allle mine t-shirst er jo stort set band t-shirts. Og der er også nogle gange hvor der står noget på hvor folk de tænker, ehhh?? Så jeg tænker, der er nogle gange hvor sådan valg af udseenede det hænger sammen med et eller andet politisk eller noget med samfundet. Hvilke jeg egentlig synes er ret normalt fordi at jeg føler også, jeg synes det er i orden hvis jeg har en eller anden t-shirt hvor der står noget på hvis folk de må rende rundt med halskæde hvor det er et kors. Så jeg kan ikke rigtig se problemerne."
-
-"det er det der min far han brokker sig over som der ike bliver gjort særlig meget ved og sådan noget. Og jeg synes også, det lyder ikke særlig interessant fordi at størstedelen af de ting jeg har hørt, enten så igen er det noget med noget med nogen dumme holdninger hvor jeg tænker at vil jeg ikke tage mig af fordi det virker ikke som om jeg kan gøre noget ved det. Og ellers så er det bare kedeligt."
-
-"[Politics] is what my father complain about when not much gets done and something like that. And I also think it doesn't sound very interesting [...]" 
-
-
-#+END_NOTES
-
-*** A generalized social phenomenon?
-#+BEGIN_NOTES
-Johannes Andersen (2011): "68’ernes aktivisme var rodfæstet i et opgør med et traditionelt og stift samfund, præget af privilegier, traditioner og forventninger. Oprøret var således en del af udviklingen af en ny politisk og social identitet, der skulle give den enkelte større frirum.  Og åbne for et mere dynamisk arbejdsmarked, men det er en anden sag.
-
-Det er ikke tilfældet for de unge i dag. De vil først og fremmest gøre en forskel. De er handlingsorienterede, og vil gerne kunne handle, her og nu, hvis der er noget der skal og kan gøres."
-
----
-Unge i dagens Danmark er uengagerede og dovne. De gider ikke bruge krudt på politik og tager ikke ansvar for samfundsudviklingen. Det er påstande, vi med jævne mellemrum støder på i den offentlige debat. Selv om unges valgdeltagelse – især til lokalvalgene – rigtigt nok halter efter den øvrige befolknings, kan vi i Netværket af Ungdomsråd, Tænketanken Mandag Morgen og Tuborgfondet ikke genkende fortællingen om de “uengagerede unge”. Tværtimod oplever vi en generation af unge, der er ambitiøse og engagerede – og i fuld gang med at involvere sig i samfundet.
-
----
-Even though it's correct that young people have a lower turnout in elections - especially for local elections - than the rest of the populeation, we can in the Network of Youth Councils, the think tank Monday Morning and the Tuborg Foundation not recognize the story of the "inddifferent youth".
-
-#+END_NOTES
-
-*** A phenomenon observed with 'old' categories?
-#+BEGIN_NOTES
-- signing a petition
-- joining in boycotts
-- attending lawful demonstrations
-- joining unofficial strikes
-- occupying buildings or factories
-- damaging things, breaking windows, street violence (1981)
-- personal violence (1981)
-
-Billeder:
-- commons.wikimedia.org/wiki/File:Petition_for_Justice_(5170695465).jpg
-- commons.wikimedia.org/wiki/File:Boycott_KFC.jpg
-- commons.wikimedia.org/wiki/File:Occupy_Central_with_tents.jpg
-- pixabay.com/en/general-strike-factory-closed-shut-29653/
-- commons.wikimedia.org/wiki/File:NLN_Occupy_Wall_Street.jpg
-
-#+END_NOTES
-
 * Følgegruppemøde 26. juni 2018
 ** Forskningsspørgsmål
 *** Overordnet spørgsmål
@@ -1079,7 +1119,6 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt bidrage til d
 - Metoder til 3: Følge dannelsespraksisser i Holbæk Kommune og lave eksperimenter
 
 #+END_NOTES
-
 * Politisk dannelse og aktionsforskning
 ** Baggrunden for projektet
 *** @@comment: Byrådets vision@@
@@ -1413,7 +1452,6 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 - Linket til det kommunalpolitiske
 
 #+END_NOTES
-
 * Intro - ErhvervsPhD-projekt
 ** Min vej til ph.d.-projektet
 #+BEGIN_NOTES
@@ -1590,6 +1628,40 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 - For det andet er der er et spørgsmål om hvilke strukturelle drivkræfter og barrierer, der er for politisk dannelse. Her handler det om at kortlægge mulighedsfeltet for politisk dannelse, da det ikke er nok med en god proces-værktøjskasse og praktiske anbefalinger – der er også strukturelle vilkår, som skal adresseres.
 - Metoder til 1: Kvantitativ og kvalitativ kortlægning af det politiske i de unges hverdagsliv - survey-undersøgelse + udvalgte unge, der interviewes med udgangspunkt i foto-dagbog
 - Metoder til 2: Dokument-analyse og historie-værksted. Hvad er policy-konteksten, og hvad har været på spil i de historiske og politiske konflikter om dannelsesprojekter. Hvordan udfolder forskellige demokrati-læringsprakssiser sig i policy-konteksten? Historieværkstedet skal finde de gode erfaringer og få svar på, hvad der virker, og hvad der ikke virker i forhold til politisk dannelse. 
+
+#+END_NOTES
+* Fraklippede slides
+** 'Egen alder' vs. '40-årige med midtvejskrise'
+#+REVEAL_HTML: <blockquote class="citat">
+Der valgte jeg så også at fravælge gruppeterapi, fordi man er ikke sikker på at komme i gruppe med nogen på ens egen alder, så der er ikke lige lyst til det. Nu er det selvfølgelig lige fordommene, som spiller, men jeg har ikke lyst til at sidde som den eneste 18-årige sammen med en masse 40 årige med midtvejskrise.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+#+END_NOTES
+
+** How to conceptualize young people's participatory practices?
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/typologi_deltagelse.jpg]]
+
+#+BEGIN_NOTES
+- An analytical tool to assess the relevance of the differenct pratices could be this typology developed by Ekman and Amnå. I think the strength of this typology is that it tries to encompas all forms of a political human-being. And they have tried to include both civic engagement and political participation in the same typology which elsewhere is concepts that sometimes live a parallel life.
+- They have 3 overall categories on the horizontal line: 1) Political participation where the political aspect is quite clear - it is manifest. 2) Civil participation where the political aspect is blurry - it's latent. It's there but it's hidden and have not yet been unfolded. 3) Non-participation where there is a political disfaction. This is combined with with 2 categories on the vertical line: Individual and collective forms of participation.
+- I have made a "quick and dirty"-analysis and tried to put in some pictures from my data representing different practices.
+- *Political participation* is divided into formal political participation and activism that again is divided into legal and illegal. In the category of formal political participation an individual form coulde be to vote at the local elections and a collective form is to participate in a political youth organization. In the category of activism I have not yet met illegal practices so these boxes are empty. Legal activism could in the invidual form be to put up political stickers on a public toilet and in the collective form to participate in a demonstration. 
+- *Civil participation* is divided into social involvement and civic engagement. Social involvement is an attention to societal and political issues - in the individual form it could be to get interested in the issue of global inequality on a journey to India. In the collective form it could be to be a part of a subculture called the furry fandom and make happenings promoting happy interactions in the public space. Civic engagement is in this typology regarded as pre-political actions, and in the indvidual form it could be to watch a film about a socieal issue and in the collective form to participate in a scout organisation.
+- In the typology Ekman and Amnå have also included *non-participation* which they consider as "the very opposite of engagement and participation" and they divide into active forms where you fell disgusted with politics and passive forms where you just don't care about politics. The picture with buying a energy drink is not an antipoltical action but the boy who took the picture was very eksplicit in his disregard of the political instituions. And the two pictures of the apolitical actions show an indivdual and a collective action that is not imediately connected to socicial and political issues.
+
+#+END_NOTES
+
+** Can we talk with the 'non-political' youth about the political?
+#+REVEAL_HTML: <blockquote class="citat">
+Common to all is that they have been interested in giving their opinion to political participation - it is the first step towards active participation. The uninterested people can be difficult to interview, as it is very difficult to talk for a long time about something that you don't do or don't care about.
+#+REVEAL_HTML: </blockquote>
+
+#+REVEAL_HTML: <p class="citat">Hansen, Niels-Henrik Møller and Sørensen, Niels Ulrik (2014). <em>Unges motivation for politisk deltagelse. Syv former for politisk engagement.</em> Center for Ungdomsforskning </p>
+
+#+BEGIN_NOTES
+Fælles for alle er, at de har været interesseret i at give deres mening til kende om politisk deltagelse - det er første skridt mod aktiv deltagelse. De helt uinteresserede kan man vanskeligt interviewe, da det er meget svært at snakke ret længe om noget, man ikke gør eller interesserer sig for.
 
 #+END_NOTES
 * Diverse
