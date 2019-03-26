@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>The PhD process from the point of view of a PhD student</title>
+<meta name="author" content="(Jakob Sejrup Villadsen)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./css/reveal.css"/>
+
+<link rel="stylesheet" href="./css/theme/white.css" id="theme"/>
+
+<link rel="stylesheet" href="./css/custom.css"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1>The PhD process from the point of view of a PhD student</h1>
+</section>
+<section>
+<section id="slide-org35c0b41">
+<h2 id="org35c0b41">My PhD project</h2>
+
+<div class="figure">
+<p><img src="./images/erhvervsphd.png" alt="erhvervsphd.png" width="800px" class="custom" />
+</p>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org7ef0a66">
+<h2 id="org7ef0a66">Planning the PhD process</h2>
+<div class="outline-text-2" id="text-org7ef0a66">
+</div>
+</section>
+<section id="slide-org372b6be">
+<h3 id="org372b6be">Breaking down the phd plan</h3>
+
+<div class="figure">
+<p><img src="./images/planning.png" alt="planning.png" width="800px" class="custom" />
+</p>
+</div>
+</section>
+<section id="slide-orgb09babe">
+<h3 id="orgb09babe">Example of milestones</h3>
+<div class="column" style="float:left; width:30%">
+
+<div class="figure">
+<p><img src="./images/milestones.png" alt="milestones.png" width="200px" class="custom" />
+</p>
+</div>
+</div>
+
+<div class="column" style="float:right; width:70%">
+<ol>
+<li>Interviews are transcribed and coded</li>
+<li>Analysis chapter is drafted</li>
+<li>Future workshop is carried out</li>
+<li>User survey is completed</li>
+
+</ol>
+</div>
+</section>
+<section id="slide-org30ac700">
+<h3 id="org30ac700">Example of gantt chart</h3>
+<div class="column" style="float:left; width:30%">
+
+<div class="figure">
+<p><img src="./images/gantt.png" alt="gantt.png" width="200px" class="custom" />
+</p>
+</div>
+</div>
+
+<div class="column" style="float:right; width:70%">
+
+<div class="figure">
+<p><img src="./images/gantt_ex.png" alt="gantt_ex.png" width="600px" class="custom" />
+</p>
+</div>
+
+</div>
+</section>
+<section id="slide-orgce6990f">
+<h3 id="orgce6990f">Example of to do list</h3>
+<div class="column" style="float:left; width:30%">
+
+<div class="figure">
+<p><img src="./images/todo.png" alt="todo.png" width="200px" class="custom" />
+</p>
+</div>
+</div>
+
+<div class="column" style="float:right; width:70%">
+<ul>
+<li>Make presenation for PhD introductory seminar</li>
+<li>Book focus group interview</li>
+<li>Test user survey</li>
+<li>Transcribe Mathias</li>
+<li>Read "Mit eget fælles af bedste"</li>
+<li>Read material for research group meeting</li>
+<li>Follow up on participants for future workshop</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-orgda02be0">
+<h2 id="orgda02be0">Interaction with academia</h2>
+
+<div class="figure">
+<p><img src="./images/organisation_imt.png" alt="organisation_imt.png" width="800px" class="custom" />
+</p>
+</div>
+
+<aside class="notes">
+<ul>
+<li>Where to belong?</li>
+<li>Participation in research group</li>
+<li>Participation at conferences</li>
+
+</ul>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-orge615b38">
+<h2 id="orge615b38">Interaction with practice</h2>
+
+<div class="figure">
+<p><img src="./images/practice-research.png" alt="practice-research.png" width="800px" class="custom" />
+</p>
+</div>
+
+<aside class="notes">
+<ul>
+<li>A clasical conclusion of a PhD thesis in the social sciences: After researching this organisation in 3 years I can conclude that they do everything wrong according to my theory! More research is needed!</li>
+<li>Between the consultant and the researcher</li>
+<li>Changing your position</li>
+<li>How to contribute both to the research field and the practice field?</li>
+
+</ul>
+
+</aside>
+</section>
+</section>
+</div>
+</div>
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

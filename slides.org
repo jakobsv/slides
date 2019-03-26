@@ -1,10 +1,78 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1>"
-#+LANGUAGE: da
+#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1>"
+#+LANGUAGE: en
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
+
+* The PhD process from the point of view of a PhD student
+** My PhD project
+#+ATTR_HTML: :width 800px :class custom
+[[./images/erhvervsphd.png]]
+** Planning the PhD process
+*** Breaking down the phd plan
+#+ATTR_HTML: :width 800px :class custom
+[[./images/planning.png]]
+*** Example of milestones
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+#+ATTR_HTML: :width 200px :class custom
+[[./images/milestones.png]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+1. Interviews are transcribed and coded
+2. Analysis chapter is drafted
+3. Future workshop is carried out
+4. User survey is completed
+#+REVEAL_HTML: </div>
+*** Example of gantt chart
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+#+ATTR_HTML: :width 200px :class custom
+[[./images/gantt.png]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+#+ATTR_HTML: :width 600px :class custom
+[[./images/gantt_ex.png]]
+
+#+REVEAL_HTML: </div>
+*** Example of to do list
+#+REVEAL_HTML: <div class="column" style="float:left; width:30%">
+#+ATTR_HTML: :width 200px :class custom
+[[./images/todo.png]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:70%">
+- Make presenation for PhD introductory seminar
+- Book focus group interview
+- Test user survey
+- Transcribe Mathias
+- Read "Mit eget fælles af bedste"
+- Read material for research group meeting
+- Follow up on participants for future workshop
+
+** Interaction with academia
+#+ATTR_HTML: :width 800px :class custom
+[[./images/organisation_imt.png]]
+
+#+BEGIN_NOTES
+- Where to belong?
+- Participation in research group
+- Participation at conferences
+#+END_NOTES
+
+** Interaction with practice
+#+ATTR_HTML: :width 800px :class custom
+[[./images/practice-research.png]]
+
+#+BEGIN_NOTES
+- A clasical conclusion of a PhD thesis in the social sciences: After researching this organisation in 3 years I can conclude that they do everything wrong according to my theory! More research is needed!
+- Between the consultant and the researcher
+- Changing your position
+- How to contribute both to the research field and the practice field?
+
+#+END_NOTES
 
 * Politisk dannelse i det ungdoms- og fritids-pædagogiske felt
 ** ErhvervsPhD - hvad er det?
