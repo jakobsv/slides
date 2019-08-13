@@ -12,6 +12,13 @@
 [[./images/pitfalls.png]]
 
 #+BEGIN_NOTES
+- The first pitfall is to see young people's participatory practices as one generalized social phenomenon instead of seeing it as a class specific and contextualised phenomenon.
+- The problem with the reproduction of these generalizations - both 'the lazy youth' and 'the engaged youth' -  is that they ignore the class specific aspect of young people's participatory practices. They ignore the political inequality among youth.
+- The second pitfall is to see young people's participatory practices as a dichotomous phenomenon where the youth are either engaged or disengaged instead of seeing it as a complex and dynamic phenomenon where engagement and disengagement exist side by side.
+- Sometimes it's difficult to say whether a specific practice is political or not. There can be practices that on the surface are apolitical, but below the surface something political is going on or is under construction. There can be young people who see themselves as not interested in politics but actually are doing something political. It depends of course also on how you conceptualize the political.
+- The third pitfall is to see young people's participatory practices as a phenomenon observed with 'old' categories instead of exploring it from the youth's point of view today.
+- We need to - as a complement to surveys - more explorative approaches with the use of young eyes where the political is not defined on beforehand. 
+
 #+END_NOTES
 
 ** How to explore political practices?
@@ -35,16 +42,35 @@
 - A *benefit* is that the method provides an entrance to how the political may be connected with everyday practices from the perspective of young people. The interview is structured by the photos from the youth - the youth decide what to talk about and how they want to present their every day life.
 - A 2nd benefit is that it shows how engagement and an interest in the world we live can exist side by side with political apathy. It shows the how the 'non-engagement' captured by surveys may actually be an engagement.
 - A 3rd benefit is that it shows how participatory practices is a differentiated and contexualised phenomenon. It helps connecting the research and theories of youth participation with concrete moments in everyday life practices - a specific moment containing time, space and sociality. The method can provide a bridge between analytical and statistical generalizations and concrete young peoples subjective experiences in concrete contexts.
-- There is a *challenge* with selection bias. The young people have to sign up if they want to participate and in this signup process it can be difficult to handle the selection bias. It's not a question of statistical representativeness, but about securing a broad range of experiences and backgrounds. The selection bias is a challenge for all data collection involving a signup process, but there is something in this method with taking pictures and talking about you and your everyday life is that is more appealing to some than others. I assess the broadness of socio-economic backgrounds to be ok, but I'm e.g. experiencing a gender bias. Out of 18 interviews I have 5 boys and 13 girls.
-- A 2nd challenge is the interview technique. Before the interviews I often only know their name, age, gender, where the live and eduction, and maybe they have sent their photo journal on beforehand. So the most of the questions get improvised during the interview. This is the case for many semi-structured interviews, but it's more distinct in this design because you basically don't know who you are talking with before the interview situation.
-- A 3rd challenge is to find the needle in the hay stack. Let's take a look on one of my dataset... 
 #+END_NOTES
+
 *** A continuum of the political (1)
 #+ATTR_HTML: :width 1000px :class custom
-[[./images/communities1.png]]
+[[./images/communities1.png
+]]
+#+BEGIN_NOTES
+- I forhold til at iagttage unges politiske udtryk mener jeg, at det giver mening at benytte distinktionen mellem det latent-politiske og det manifest-politiske -- at det politiske er noget, der bevæger sig mellem det latente, ``som eksisterer, men indtil videre er skjult; som endnu ikke er kommet til udfoldelse'' på den ene side, og det manifeste, som er ``konkret og tydelig for øjet eller forstanden'' på den anden side. I Ekman og Amnås typologi kommer de dog til at lave et for skarpt skel mellem de forskellige kategorier, og derfor mener jeg, at det er mere fornuftigt at se det som et kontinuum mellem det latent-politiske og det manifest-politiske, hvor nogle udtryk bevæger sig dynamisk mellem de to poler.
+- Analysen vil kigge på udtryksmulighederne inden for forskellige fællesskabstyper:
+  - Fandom (furry, cosplay og metalmusik)
+  - Forening (idræt og spejder)
+  - Ungdomsråd
+  - Ungdomsparti
+- Disse fire fællesskabstyper kan umiddelbart placeres forskellige steder på kontinuumet mellem det latent-politiske og det manifest-politiske med fandom i den ene ende og ungdomsparti i den anden ende.
+#+END_NOTES
+
 ***  A continuum of the political (2)
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/communities2.png]]
+
+#+BEGIN_NOTES
+- Jeg opererer med en forestilling om det politiske som noget nært vs. fjernt, men det er ikke noget de unge gør (bortset fra dem der ser det som noget nært). De ser det ser som kedeligt vs. spændende. Abstraktionen om at være placeret i eller udenfor det politiske er ikke noget, der bliver opereret med - at det politiske kunne være noget andet, end det de oplever. Der bliver reproduceret en forestilling om politik, som er det, de har mødt i undervisning, medier, mv. Det peger på, at genforhandlingen af det politiske har det svært.
+- Der bliver ikke udtryk noget "radikalt upolitisk" - forstået på den måde at man aktivt udfordrer den dominerende politik-forestilling. Ditte er den person, der er tættes på en anti-politisk position: "[...] jeg synes bare de kører rundt i de samme ting hele tiden og skændes om de samme ting. Det er der sgu ikke nogle grund til - de kommer ikke videre. Så jeg synes... for at være ærlig så synes jeg, at politik det er ret latterligt. Jeg synes det er dumt." Derudover er der som sådan ikke noget anti-politisk.
+- Blandt de unge bliver der ikke artikuleret et kontiuum mellem det lantet-politiske og det manifest-politiske - der er politik, som en mere eller minde fasttømret størrelse, man ikke kan stille spørgsmål ved. Kontinuumet er fra "latterligt" til "hverdag".
+- Hvorfor vil jeg benytte latent - manifest? Det vil jeg, da "latterligt" er en iagttagelse af, hvordan politik bliver fremstillet i dag, og denne iagttagelse vil jeg gerne stille spørgsmålstegn ved, samtidig at med at fastholde iagttagelsens kritiske potentiale.
+
+
+#+END_NOTES
+
 ** Unfolding the political
 *** @@comment: Needle in hay stack@@
 :PROPERTIES:
@@ -60,6 +86,17 @@
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/themes.png]]
 
+#+BEGIN_NOTES
+- Ift. paperet/præsentationen på de to konferencer i august udvælger jeg nogle koder, som jeg vurderer har særlig relevans ift. at komme med nogle foreløbige bud på, hvordan det politiske kommer til udtryk i de unges livsverden i et kontinuum mellem det latent-politiske og manifest-politiske. Det drejer sig om: 
+  - Opfatte politik
+  - Udtrykke ens identitet
+  - Reflektere over forbrug
+  - Bruge offentligt rum
+  - Have noget at sige
+  - Indgå i beslutninger
+  - Praktisere kritik
+#+END_NOTES
+
 *** Expressing your identity
 #+REVEAL_HTML: <div class="column" style="float:left; width:50%">
 #+ATTR_HTML: :width 300 :class custom
@@ -70,6 +107,14 @@
 #+ATTR_HTML: :width 300 :class custom
 [[./images/O01.jpg]]
 #+REVEAL_HTML: </div>
+
+#+BEGIN_NOTES
+- Koden indfanger, hvordan de unge visuelt igennem tøj, tatoveringer, smykker og makeup forsøger at vise andre, hvad der betyder noget for én - hvem man er.
+- Olivia vil gerne vise et socialistisk symbol og deri er der klart politisk aspekt. Også Clara kan se en potentiel politisk sammenhæng: "Alle mine t-shirst er jo stort set band t-shirts. Og der er også nogle gange hvor der står noget på hvor folk de tænker, ehhh?? Så jeg tænker, der er nogle gange hvor sådan valg af udseenede det hænger sammen med et eller andet politisk eller noget med samfundet."
+- I starten af min kodningsproces så jeg ungdomsparti, som noget man deltager i og fandom, som noget man er en del af. At det ene er et deltagelsesmæssigt udtryk og det andet er et identitetssmæssigt udtryk. Men kigger vi fx på Olivia og Clara, så åbner de interviewet på stort set samme måde - med et foto, der viser en kropmæssig deltalje, der siger noget om, hvem de er som personer. Forskellen er, Olivia begrunder det politisk, og Clara begrunder det kulturelt. Jeg har implicit antaget, at ungdomspolitik hænger sammen med deltagelse og metalmusik med væren. Men det er begge identitetsmæssige udtryk, og det kan derfor give mening at se begge situationer som noget, der handler om at udtrykke ens identitet.
+- Det siger noget om, at fandom og ungdomsparti er to former for ungdomskulturelle udtryk frem for, at det ene er politiske og det andet ikke er.
+- Disse udtryk handler nok primært om at træde frem som noget særligt - som en unik person - og om at dyrke særlige æstestikker. Det er ikke nødvendigvis politisk, men det kan det være - især hvis vi kigger lidt mere historisk på det, hvor modkulturelle udtryk, inkl. det æstestiske, har spillet en rolle som protester mod konservative og autoritære værdisystemer.
+#+END_NOTES
 
 *** Using public space
 #+REVEAL_HTML: <div class="column" style="float:left; width:50%">
@@ -82,19 +127,40 @@
 [[./images/O30.jpg]]
 #+REVEAL_HTML: </div>
 
+#+BEGIN_NOTES
+- Clara fortæller her om en handling, der kan tolkes latent-politisk, da det er en handling, der foregår i det offentlige rum, og som skaber en forskel for andre. Det er en civil, positiv forstyrrelse af et offentligt rum, den centrale handelsgade i Holbæk, der ellers er domineret af forbrugsoplevelser og bilkørsel. Handlingen demonstrerer en vilje til at træde frem over for andre mennesker samt et engagement i forhold til at gøre det offentlige rum bedre. Senere i interviewet fortæller hun også, at ``det er rigtig fedt at gøre det ude i offentligheden''. Offentlighedsbegrebet er et hun selv bringer ind i interviewet, hvilket er interessant, da det er et abstrakt begreb, som jeg formoder ikke er en del af særlig mange 16-åriges sprogbrug. Det antyder en bevidsthed om forskellen mellem den private og den offentlige sfære samt en reflekteret praksis i forhold til det at handle i offentligheden.
+- Clara italesætter ikke selv nogen forbindelse mellem The Furry Fandom og det politiske, men direkte adspurgt, mener hun, at der opstår en samfundsmæssig relation ved samfundets forsøg på at regulere deres fællesskab. Hun refererer til det maskeringsforbud, der blev indført den 1. august 2018, som gør, at det have et fursuit på i offentligheden måske er ulovligt medmindre, at politiet tolker det som et såkaldt anerkendelsesværdigt formål. Der er nogle af hendes venner, der har oplevet noget med ``det her må du ikke her, fordi siger det her og det her''. Det er ikke noget, hun personligt har oplevet, hvilket hun ``er ret glad for, men det kommer sikkert snart, vil jeg tro''. Så selvom hun ikke selv ser det som en politisk handling at gå rundt med et fursuit, kan maskeringsforbuddet have en politiserende effekt ved, at det nu kan ses som en mulig protest mod samfundets regler, der begrænser individets frihed og normaliserer samfundets medlemmer.
+- Clara og Olivia refererer til den samme samfundsbegivenhed - indførelse af maskeringsforbud. For Clara er det et potentielt indgreb i hendes livsverden - for Olivia er det ikke noget, som hun personligt er berørt af. De laver også det samme, nemlig går ud i det offentlige rum med udklædning. For Clara er det bare noget hun gør - for Olivia er det en politisk handling. Det er et eksempel på, at den samme handling kan italesættes som både politisk og ikke-politisk - at det handlinger inden for alle fællesskabstyper bevæger sig dynamisk mellem latent-politisk og manifest-politisk niveau.
+
+#+END_NOTES
+
 *** Practising critique
 #+REVEAL_HTML: <blockquote class="citat">
 [...] perhaps in the form of my silent protests. For example, after my school psychologist, where she called my parents bypassing me, I refused to use her anymore. Also, my psychiatrist - I was discharged because I don't think group therapy and medicine was a good idea. [...] But I might consider, [...] when I get it at a distance then just say: 'Hey, it wasn't really a very good experience I had here' or write a critique or write something.
 #+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+- I interviewuddraget er der forskellige kritikformer på spil. Der er en indadvendt kritik, hvor en depression opstår bl.a. på baggrund af en modløshed over verdens tilstand og et manglende engagment i den, hvor ``tredje verden sulter [...], imens vi bare sidder her og brokker os over vejret'', og hvor depressionen håndteres ved individuelle strategier, fx motion. Der er en kritik rettet mod den måde, hvorpå nogle har forsøgt at hjælpe ham på, fx blive placeret i gruppeterapi med ``40-årige med midtvejskrise'' og ``pumpet op med medicin''. Samtidig er der en ansats til offentlig kritik, hvor ``ting bliver nedfældet på papir'' i en ``frustration over det offentlige sundhedssystem'' og delt med de nærmeste. Systemet kan dog kun måske opfange hans kritik igennem ``stille protester'', og der bliver ikke ``organiseret march''. Her er der nogle latent-politiske udtryk -- nogle private kritikker og praksisser, som potentielt kunne blive bragt ind i en offentlighed.
+- Jonas nævner nogle muligheder for, at sundhedssystemet kan høre hans kritik mere direkte, fx ved at de har en eller anden form for feedbackmekanisme -- en ``læserkasse'' hvor man kan lægge noget kritik i. Disse feedbackmekanismer eksisterer muligvis allerede. Går man fx ind på Region Sjællands hjemmeside, bliver man mødt af et banner med overskriften ``Sæt formanden stævne''. Klikker man videre, får man at vide, at ``borgernes gode ideer skal frem i lyset, og de skal have mulighed for dialog i øjenhøjde med den politiske ledelse i Region Sjælland'', og at man derfor kan booke en 'én til én'-samtale af et kvarter varighed med regionsrådsformanden. I en sådan feedbackmekanisme forbliver kritikken sandsynligvis et individuelt og privat anliggende og bliver ikke bragt ind i en offentlig sammenhæng. Der etableres heller ikke et politisk fællesskab, der  kan søge at skabe nogle forandringer.
+- Kritik er godt - det er gennem kritik og offentlig debat, at vores samfund udvikler sig og bliver forbedret. Men hvilke arenaer har de unge til at praktisere kritik? Der er et uforløst kritikpotentiale, hvis vi hører mere efter, hvad de unge fortæller om deres hverdag på tværs af de forskellige institutionelle kontekster, som de befinder sig. De unges deltagelse i det, som vi umiddelbart kan kategorisere som mere manifest-politiske fællesskaber, hænger ikke nødvendigvis sammen med udøvelsen af handlinger, som skal gøre noget ved de samfundsforhold, som de unge oplever som kritiserbare. Det er som om, at der et hul imellem praktiseringen af kritik og de nuværende arenaer for politisk deltagelse.
+
+#+END_NOTES
 
 ** The political in different youth communities
 *** One way to see it
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/communities3.png]]
 
+#+BEGIN_NOTES
+#+END_NOTES
+
 *** Another way to see it
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/communities4.png]]
+
+#+BEGIN_NOTES
+En mulig konklusion kan være, at de fire fælleskabstypers position i kontinuumet er flydende frem for fast, og at de fire fælleskabstyper mere skal ses som det samme - et ungdomskulturelt udtryk - og at der ikke nødvendigvis er noget, der er mere politisk end andet. Fx er deltagelse i et ungdomsråd eller ungdomsparti ikke nødvendigvis baseret på kritiske erfaringer, men er mere en søgning efter et fællesskab, hvor man hører til. Der er potentiale for politisering inden for alle fælleskabstyper.
+#+END_NOTES
 
 * The PhD process from the point of view of a PhD student
 ** My PhD project
