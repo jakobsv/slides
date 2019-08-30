@@ -1,11 +1,31 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
+#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
 #+LANGUAGE: en
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
 
+* Mellem det latent-politiske og det manifest-politiske
+** @@comment: Byrådets vision@@
+#+ATTR_HTML: :width 640px :class custom
+[[./images/vision-side001.jpeg]]
+** @@comment: Biesta 1@@
+:PROPERTIES:
+:reveal_background: images/sheep.jpg
+:END:
+** Faldgruber i iagttagelsen af unges politiske udtryk
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faldgruber.png]]
+** Et kontinuum over det politiske
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faellesskab1.png]]
+** Analytiske temaer
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/temaer.png]]
+** Det politiske i forskellige ungdomsfællesskaber
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faellesskab2.png]]
 * Between the latent-political and the manifest-political
 ** Pitfalls in the study of young people's political practices
 #+ATTR_HTML: :width 1000px :class custom
