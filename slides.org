@@ -1,10 +1,102 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1><h2>%a</h2>"
+#+DATE: 25. september 2019
+#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1><h2>%d</h2>"
 #+LANGUAGE: en
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
+
+* Forsknings-værksted
+** Forskningsspørgsmål
+1. Hvilke muligheder for medborgerlig læring skaber rammerne for det ungdoms- og fritidspædagogiske felt?  
+2. Hvordan kommer det politiske til udtryk i de unges livsverden i et kontinuum mellem det latent-politiske og manifest-politiske?
+3. Hvorvidt kan unges kritikker og drømme relateret til deres livsverden bringes ind i en offentlighed i medborgerlige læringsprocesser?
+** @@comment: Byrådets vision@@
+#+ATTR_HTML: :width 640px :class custom
+[[./images/vision-side001.jpeg]]
+** @@comment: Biesta 1@@
+:PROPERTIES:
+:reveal_background: images/sheep.jpg
+:END:
+** Et kontinuum over det politiske
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faellesskab1.png]]
+** Eksempel 
+#+REVEAL_HTML: <div class="column" style="float:left; width:50%">
+#+ATTR_HTML: :width 300 :class custom
+[[./images/furry.jpg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:50%">
+#+ATTR_HTML: :width 300 :class custom
+[[./images/O30.jpg]]
+#+REVEAL_HTML: </div>
+
+** Det politiske i forskellige ungdomsfællesskaber
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faellesskab2.png]]
+** UngHolbæks bidrag til unges demokratiske dannelse
+*** @@comment: Jagten og aktivisme@@
+#+ATTR_HTML: :width 700px :class custom
+[[./images/skralde.png]]
+
+*** Om ungdomsrådet (fra interview)
+#+REVEAL_HTML: <blockquote class="citat2">
+[...] det var et ret fint initiativ, de havde gang i. Og det her med at der også var nogle voksne inde over - altså på en måde gjorde det det dårligere, på en måde gør det det bedre, ikke? [...] jeg synes det blev lidt for sådan styret af dem. [...] altså meget af det vi mente blev ligesom, altså, også sagt af dem. Det var ikke så meget... det var også meget deres meninger, der kom igennem, ik'? Men samtidig formåede de også at holde styr på det [...] det blev godt faciliteret. Det var mere det der med, der ikke... jeg ved ikke, hvordan det er nu, men jeg synes, der var lidt for meget plads til dem på en eller anden måde.
+#+REVEAL_HTML: </blockquote>
+
+*** Om demokrati-events (fra essay-konkurrence)
+#+REVEAL_HTML: <blockquote class="citat2">
+Jeg kan selv huske de dage, hvor vi blev taget ud af skolen for at deltage i diverse arrangementer og aktiviteter der omhandlede Holbæk. Brainstorms om Holbæks gademiljø, snak om sportsbyer og lignende. Det var nogle hyggelige dage ingen tvivl om det, og det var sjovt at føle, at man havde indflydelse. Men så er det, at det store men kommer. For der var ingen opfølgning og de færreste af eleverne interesserede sig for projekterne efterfølgende. Det er her jeg tror. at filmen knækker for mange af de ellers gode ideer og planer. som der er i Holbæk kommune. Kommunikationen dør. 
+#+REVEAL_HTML: </blockquote>
+
+** Unges kritikker
+*** Hvad kan kritik i offentligheden?
+#+REVEAL_HTML: <blockquote class="citat">
+Loven om egenbetaling gav ikke mening for mig. Jeg havde været til et hav af snakke om aktivering, og det virkede som om, at det var det vigtigste mål. Hvordan kan det så retfærdiggøres, at man samtidig har en lov, der fjerner incitamentet til at arbejde og holder de unge fanget på offentlig forsørgelse? Det underminerer jo samfundets interesse i at styrke selvstændighed og arbejdsparathed hos udsatte.
+#+REVEAL_HTML: </blockquote>
+
+#+REVEAL_HTML: <p class="citat">Helga Sofie Nielsen: <em>Det skal kunne betale sig at arbejde - også for anbragte unge. </em> <br>Kronik i Information, 20. juli 2017</p>
+
+*** "Mine stille protester"
+#+REVEAL_HTML: <blockquote class="citat">
+[...] måske i form af mine stille protester. For eksempel efter min skolepsykolog, hvor hun ringede til mine forældre uden om mig, så nægtede jeg at komme hos hende mere. Også min psykiater blev jeg udskrevet, fordi at jeg synes ikke, at gruppeterapi og medicin var en god idé. Så på den måde tror jeg, at de opfangede, at der er ligesom et eller andet, der går galt.
+#+REVEAL_HTML: </blockquote>
+
+*** "18 forskellige sagsbehandlere"
+#+REVEAL_HTML: <blockquote class="citat2">
+S: [...] jeg fik at vide: "Sebastian, her er din nye kontaktperson", og der gik sådan 2 måneder, før jeg fik hans telefonnummer. Og så havde jeg fået sagsbehandler. Så fik jeg en ny igen. På tre år der har jeg haft - hvad? - 18 forskellige sagsbehandlere. [...]
+
+J: Har du nogen sådan ideer til, hvordan de kan blive bedre, sådan ud fra dine erfaringer?
+
+S: Ja, at holde sig - ét - til én sagsbehandler. Og så er det den, der er der hele tiden. I stedet for at der skal komme nye hele tiden og sådan noget.
+#+REVEAL_HTML: </blockquote>
+
+** Unges drømme
+*** @@comment: Drøm 5@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/droem5.png]]
+
+*** @@comment: Drøm 2@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/droem2.png]]
+
+*** @@comment: Drøm 3@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/droem3.png]]
+
+*** @@comment: Drøm 4@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/droem4.png]]
+
+*** @@comment: Drøm 6@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/droem6.png]]
+
+*** @@comment: Drøm 1@@
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/droem1.png]]
 
 * Mellem det latent-politiske og det manifest-politiske
 ** @@comment: Byrådets vision@@
