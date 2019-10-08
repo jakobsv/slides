@@ -1,11 +1,198 @@
 #+TITLE: Slides - ErhvervsPhD-projekt
 #+AUTHOR: Jakob Sejrup Villadsen
-#+DATE: 25. september 2019
-#+OPTIONS: num:nil toc:nil reveal_title_slide:"<h1>%t</h1><h2>%d</h2>"
-#+LANGUAGE: en
+#+DATE: 8. oktober 2019
+#+OPTIONS: num:nil toc:1 reveal_title_slide:"<h1>%t</h1><h2>%d</h2>"
+#+LANGUAGE: da
 #+REVEAL_THEME: white  
 #+REVEAL_TRANS: linear
 #+REVEAL_EXTRA_CSS: ./css/custom.css
+
+* Unges politiske udtryk
+** Intro til mit projekt
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Overordnet spørgsmål
+/Hvordan kan man forstå det politiske som en del af de unges livsverden, og hvilken rolle kan det ungdoms- og fritidspædagogiske felt spille i forhold til at videreudvikle politiske ansatser blandt unge?/
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Forskningsspørgsmål
+1. Hvilke muligheder for medborgerlig læring skaber rammerne for det ungdoms- og fritidspædagogiske felt?  
+2. Hvordan kommer det politiske til udtryk i de unges livsverden i et kontinuum mellem det latent-politiske og manifest-politiske?
+3. Hvorvidt kan unges kritikker og drømme relateret til deres livsverden bringes ind i en offentlighed i medborgerlige læringsprocesser?
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** @@comment: Byrådets vision@@
+#+ATTR_HTML: :width 640px :class custom
+[[./images/vision-side001.jpeg]]
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** @@comment: Biesta@@
+:PROPERTIES:
+:reveal_background: images/sheep.jpg
+:END:
+
+#+BEGIN_NOTES
+- Hjælp fra Gert Biesta - her forsidebilledet fra "Demokratilæring i skole og samfund"
+- Hvem er den gode borger? Borgeren, der er en del af helheden? Eller borgeren, der er out of order? 
+- To forståelser af medborgerlig læring
+- Socialisation: Føre nytilkomne ind i den socio-politiske orden. Samfundet har et problem med borgerne - derfor skal de unge opdrages til aktivt medborgerskab - de skal have kompetencer og viden. Det handler om et fremtidigt medborgerskab.
+- Subjektifikation: Processen med at blive et demokratisk subjekt. Borgerne har et problem med samfundet - derfor skal der skabes muligheder for at unge kan deltage i det demokratiske eksperiment og udfordre den socio-politiske orden. Det handler om et aktuelt medborgerskab.
+- Som ErhvervsPhD-studerende i en kommune er jeg på den ene side ansat til en socialisationsopgave. Holbæk Kommune vil have aktivt medborgerskab - borgere der stemmer til valg og bidrager til løsningen af velfærdsopgaverne. Hvordan producerer vi de borgere? 
+På den anden side er min forskningsmæssige interesse subjektifikationen - relationen mellem hverdagsliv og det politiske. Hvordan opfatter vi det politiske? Hvordan kan det lukkes ud af den institutionelle ramme og åbnes op, så det generelt omfatter de kollektive forsøg på at forme samfundet - noget som omfatter hverdagslivets fællesskaber.
+
+#+END_NOTES
+
+** At iagttage unges politiske udtryk
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Faldgruber i iagttagelsen af unges politiske udtryk
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faldgruber.png]]
+
+#+BEGIN_NOTES
+- The first pitfall is to see young people's participatory practices as one generalized social phenomenon instead of seeing it as a class specific and contextualised phenomenon. A generalization could be 'the lazy youth' or 'the engaged youth' - but both generalizations ignore the class specific aspect of young people's political practices.
+- The second pitfall is to see young people's participatory practices as a dichotomous phenomenon where the youth are either engaged or disengaged instead of seeing it as a complex and dynamic phenomenon where engagement and disengagement exist side by side.
+- Sometimes it's difficult to say whether a specific practice is political or not. There can be practices that on the surface are apolitical, but below the surface something political is going on or is under construction. There can be young people who see themselves as not interested in politics but actually are doing something political.
+- The third pitfall is to see young people's participatory practices as a phenomenon observed with old categories instead of exploring it from the youth's point of view today.
+- We need to - as a complement to surveys - more explorative approaches with the use of young eyes where the political is not defined on beforehand. 
+
+#+END_NOTES
+
+*** @@comment: Needle in hay stack@@
+:PROPERTIES:
+:reveal_background: images/hverdag_collage2.jpg
+:END:
+#+BEGIN_NOTES
+- 
+#+END_NOTES
+
+*** Et kontinuum over det politiske
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faellesskab1.png]]
+
+#+BEGIN_NOTES
+- 20 young people from Holbæk Municipality between 14 and 18 years old have participated in the study - and they are a part of different youth communities.
+  - All the particpants are a part of non-purposive communities: This is friendships and other communities without a specific purpose which 
+  - 2 of the participants are a part of fandoms. This is communities who share a common interest in a specific cultural phenomenon, e.g. metal music or cosplay.
+  - 5 of the participants are a part of associations, e.g. sport or scout.
+  - 2 of the participants are a part of a local youth council which is faciliated by the municipality and 1 is former member.
+  - 2 of the particiapnts are a part of a youth party and 2 are former members.
+- I think it's interesting to study political practices across these types of communities instead of just looking at one type of community. With the look across communities we can better see different experiences with the political. These experiences can be placed on a continuum between the latent-political and the manifest-political. Between the political as something hidden and not yet unfolded and the political as something declared and with a clear societal dimension. We can place the communities on this continuum but I will later discuss if this is the right way to see it.
+- With the pitfalls I talked about before, the latent-political praticies have been neglected in research and by municipalities and NGOs, but I try in my project to take a closer view on these practies because I think there is a political potential in these practices that maybe also can challenge what we normally see as political. 
+
+#+END_NOTES
+
+*** Eksempel 
+#+REVEAL_HTML: <div class="column" style="float:left; width:50%">
+#+ATTR_HTML: :width 300 :class custom
+[[./images/furry.jpg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:50%">
+#+ATTR_HTML: :width 300 :class custom
+[[./images/O30.jpg]]
+#+REVEAL_HTML: </div>
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Det politiske i forskellige ungdomsfællesskaber
+#+ATTR_HTML: :width 1000px :class custom
+[[./images/faellesskab2.png]]
+
+#+BEGIN_NOTES
+- Let's take a look again on the different youth communities.
+- The question I'm working with now is how individual problems among youth can be transformed into public critique and societal change. We improve our society through critique but which arenas do the youth have to practice critique? The participation in the youth communities that on the surface can be categorized as more manifest-political do not necessarily relate to the practice of critique.
+- One way to see political practices among youth is as a staircase where 'true' political participation is realised in the party political system and where you become more and more manifest-political by stepping up to another type of community.
+- But my interview point towards the observation that we can't make any clear divisions between the latent-political and the manifest-political and that participation in a youth council or a youth party often not is connected to critical experiences but is more a search after a community where you can belong. 
+- So another way is to:
+  - see the different youth communities' position on the continuum as dynamic rather than static
+  - see the youth communities as different forms of youth cultural expressions where one community is not necessarily more manifest-political than another community.
+  - see a political potential in a broad sprectrum of youth communities.
+#+END_NOTES
+
+** Unge, klima og pædagogik
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Hvor meget fylder klimaspørgsmålet blandt unge?
+#+ATTR_HTML: :width 700px :class custom
+[[./images/skolevalg_maerkesager.png]]
+#+REVEAL_HTML: <p class="citat">Top 10 over udvalgte mærkesager fra Skolevalget 2019</p>
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Genbrugstøj - ikke kun et spørgsmål om bæredygtighed
+#+REVEAL_HTML: <blockquote class="citat">
+Der er også rigtig mange af mine veninder, der har den samme sådan interesse om det som mig. Jeg synes bare det er fedt, det der med, at man kan få det til så meget billigere priser, og det er så bare er lidt brugt af nogle andre, så det har lidt en historie. Og så de penge, man giver, det går til et godt formål. Og så er det sådan nogle søde damer, der arbejder dernede. Og ja... jeg synes bare, at det er et virkelig fedt koncept det der.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Madspild - også et spørgsmål om økonomi 
+#+REVEAL_HTML: <blockquote class="citat">
+Det er ikke så meget økologi. Mest fordi det oftes er dyrere. Og vi har ikke sådan virkelig virkelig mange penge. Og så nogle gange, når vi også laver andet, så er det jo sådan, hvad skal vi spise i dag? Nå ok, vi spiser rester fra i går. For det kan vi jo ligså så godt. Og jeg er faktisk rigtig meget imod madspild for det meste. Jeg synes det er synd at smide mad ud, som sagtens kunne spises.
+#+REVEAL_HTML: </blockquote>
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Nogle refleksioner/hypoteser om klimaaktivisme
+- Vi skal være forsigtige med en generalisering om "den klimaaktivistiske ungdom".
+- Klimakampen er stadig primært latent-politik blandt unge, men er på vej til at blive manifest-politisk.
+- Klimakampen har givet de unge en sag, der hænger sammen med deres verden - både i lille og stor forstand. Hvad havde unge i 90'erne og 00'erne at kæmpe for?
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** Et indspark fra Hannah Arendt
+#+REVEAL_HTML: <blockquote class="citat">
+Our hope always hangs on the new which every generation brings; but precisely because we can base our hope only on this, we destroy everything if we so try to control the new that we, the old, can dictate how it will look. Exactly for the sake of what is new and revolutionary in every child, education must be conservative; it must preserve this newness and introduce it as a new thing into an old world [...].
+#+REVEAL_HTML: </blockquote>
+
+#+REVEAL_HTML: <p class="citat">Hannah Arendt, 1961</p>
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** @@comment: Jagten@@
+:PROPERTIES:
+:reveal_background: images/jagten.JPG
+:END:
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
+
+*** @@comment: Jagten og aktivisme@@
+#+ATTR_HTML: :width 700px :class custom
+[[./images/skralde.png]]
+
+#+BEGIN_NOTES
+-
+#+END_NOTES
 
 * Forsknings-værksted
 ** Forskningsspørgsmål
@@ -112,6 +299,7 @@ S: Ja, at holde sig - ét - til én sagsbehandler. Og så er det den, der er der
 ** Et kontinuum over det politiske
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/faellesskab1.png]]
+
 ** Analytiske temaer
 #+ATTR_HTML: :width 1000px :class custom
 [[./images/temaer.png]]
@@ -1975,6 +2163,18 @@ Hvorvidt kan aktørerne i det ungdoms- og fritidspædagogiske felt facilitere po
 
 #+END_NOTES
 * Fraklippede slides
+** Tilbage til barndommen?
+#+REVEAL_HTML: <blockquote class="citat">
+[...] man udråbte derfor i ren desperation og afmagt den her teenager til Messias, hvilket selvfølgelig resulterede i et akut anfald af gammelmandspessimisme og følelsesallergi i den borgerlige. [...] Tak til Greta for at trække publikum og være modig - nu må hun gerne tage tilbage til sin barndom, og så må vi andre vidst også se at komme videre med det væsentlige, nemlig løsningerne.
+#+REVEAL_HTML: </blockquote>
+
+#+REVEAL_HTML: <p class="citat">Anne Valentina Berthelsen, MF(SF), Facebook</p>
+
+** Klimaengagement - også et spørgsmål om social positionering
+#+REVEAL_HTML: <blockquote class="citat">
+Sidst snakkede hun om det der med, at det er jo det der CO2-udslip, der kommer til ende med at dræbe os alle sammen og sådan noget, hvor jeg har mere, at det bare er det her med, at solen vokser, der kommer til at sådan – det er ikke det, jeg tænker mest på, fordi jeg har sådan en helt anden mening om, hvad det er, der kommer til at ende vores planet.
+#+REVEAL_HTML: </blockquote>
+
 ** 'Egen alder' vs. '40-årige med midtvejskrise'
 #+REVEAL_HTML: <blockquote class="citat">
 Der valgte jeg så også at fravælge gruppeterapi, fordi man er ikke sikker på at komme i gruppe med nogen på ens egen alder, så der er ikke lige lyst til det. Nu er det selvfølgelig lige fordommene, som spiller, men jeg har ikke lyst til at sidde som den eneste 18-årige sammen med en masse 40 årige med midtvejskrise.
